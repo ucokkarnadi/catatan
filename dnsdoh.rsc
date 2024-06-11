@@ -1,1135 +1,1141 @@
-/ip dns static add ttl=10m type=NXDOMAI name=1.dns.noridev.moe
-/ip dns static add ttl=10m type=NXDOMAI name=1a.ns.ozer.im
-/ip dns static add ttl=10m type=NXDOMAI name=1dot1dot1dot1.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=3dns.eu
-/ip dns static add ttl=10m type=NXDOMAI name=5g.o0o.re
-/ip dns static add ttl=10m type=NXDOMAI name=8888.google
-/ip dns static add ttl=10m type=NXDOMAI name=a.zpn.me
-/ip dns static add ttl=10m type=NXDOMAI name=abe01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=abel.waringer-atg.de
-/ip dns static add ttl=10m type=NXDOMAI name=ad.huyct.net
-/ip dns static add ttl=10m type=NXDOMAI name=ad.justincounts.com
-/ip dns static add ttl=10m type=NXDOMAI name=ad.tzockt.beer
-/ip dns static add ttl=10m type=NXDOMAI name=ad1.heronet.nl
-/ip dns static add ttl=10m type=NXDOMAI name=ada.openbld.net
-/ip dns static add ttl=10m type=NXDOMAI name=adb-home.xaoimoon.fr
-/ip dns static add ttl=10m type=NXDOMAI name=adb.aadityakushwaha.com
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.any.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.borjalopez.eu
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.dns.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.doh.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.indianets.net
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.leenit.kr
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.lux1.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.lv1.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.mydns.network
-/ip dns static add ttl=10m type=NXDOMAI name=adblock.ny1.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=adblockersite.com
-/ip dns static add ttl=10m type=NXDOMAI name=addns1.m-it.ro
-/ip dns static add ttl=10m type=NXDOMAI name=adfree.usableprivacy.net
-/ip dns static add ttl=10m type=NXDOMAI name=adfreedns.top
-/ip dns static add ttl=10m type=NXDOMAI name=adg.jnorton.us
-/ip dns static add ttl=10m type=NXDOMAI name=adg.rokh.biz
-/ip dns static add ttl=10m type=NXDOMAI name=adg.rueiliu.space
-/ip dns static add ttl=10m type=NXDOMAI name=adguard-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=adguard-ironhide.ultima-thule.ru
-/ip dns static add ttl=10m type=NXDOMAI name=adguard-kartoffel.zernico.de
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.abd.ong
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.avdkishore.dev
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.beliefanx.cn
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.bonis.de
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.bonsirven.eu
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.cloudmini.net
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.dekonix.ru
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.depieri.net
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.ef67daisuki.club
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.ender.fr
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.gbrossi.com.br
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.haneulo.com
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.ihatemy.live
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.jfchenier.ca
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.kiboko.it
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.konikoni428.com
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.kss.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.lege.despagne.net
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.marto.si
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.meddy94.de
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.oms-ctr.ru
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.onlyfriends.info
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.piekacz.pl
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.quydang.name.vn
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.ruby.ci
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.shoupperuser.com
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.shutgaming.net
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.shuting.idv.tw
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.sparshbajaj.me
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.sscw.win
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.twotigers.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.wirimij.nl
-/ip dns static add ttl=10m type=NXDOMAI name=adguard.zachitect.com
-/ip dns static add ttl=10m type=NXDOMAI name=adguard1.jsanagustin.net
-/ip dns static add ttl=10m type=NXDOMAI name=adguard1.leadmon.net
-/ip dns static add ttl=10m type=NXDOMAI name=adguardhome.atakorah.com
-/ip dns static add ttl=10m type=NXDOMAI name=adl.adfilter.net
-/ip dns static add ttl=10m type=NXDOMAI name=ads.hunga1k47.com
-/ip dns static add ttl=10m type=NXDOMAI name=adult-filter-dns.cleanbrowsing.org
-/ip dns static add ttl=10m type=NXDOMAI name=ag.ff0x.ca
-/ip dns static add ttl=10m type=NXDOMAI name=ag.hostme.co.il
-/ip dns static add ttl=10m type=NXDOMAI name=ag.marschi.de
-/ip dns static add ttl=10m type=NXDOMAI name=ag.ssrahul96.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=agh-yz.russel053.com
-/ip dns static add ttl=10m type=NXDOMAI name=agh.fltn.us
-/ip dns static add ttl=10m type=NXDOMAI name=agh.printk.info
-/ip dns static add ttl=10m type=NXDOMAI name=agh.xinfeng16m.top
-/ip dns static add ttl=10m type=NXDOMAI name=ahadns.net
-/ip dns static add ttl=10m type=NXDOMAI name=all.dns.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=alleesph.online
-/ip dns static add ttl=10m type=NXDOMAI name=ams01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=ams02.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=ant.dns.qwer.pw
-/ip dns static add ttl=10m type=NXDOMAI name=antivirus.bebasid.com
-/ip dns static add ttl=10m type=NXDOMAI name=anycast.censurfridns.dk
-/ip dns static add ttl=10m type=NXDOMAI name=anycast.dns.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=anycast.uncensoreddns.org
-/ip dns static add ttl=10m type=NXDOMAI name=aqua.is.my.waifu.cz
-/ip dns static add ttl=10m type=NXDOMAI name=arashi.eu.org
-/ip dns static add ttl=10m type=NXDOMAI name=area51.mywire.org
-/ip dns static add ttl=10m type=NXDOMAI name=armorrush.eu.org
-/ip dns static add ttl=10m type=NXDOMAI name=at.pzhg.me
-/ip dns static add ttl=10m type=NXDOMAI name=atl01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=au-syd.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=au01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=au02.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=awan.ftp.sh
-/ip dns static add ttl=10m type=NXDOMAI name=b-ii.com
-/ip dns static add ttl=10m type=NXDOMAI name=base.dns.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=basic.bravedns.com
-/ip dns static add ttl=10m type=NXDOMAI name=basic.rethinkdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=bl.eq.md
-/ip dns static add ttl=10m type=NXDOMAI name=blackhole.myon.lu
-/ip dns static add ttl=10m type=NXDOMAI name=blitz-setup.ahadns.com
-/ip dns static add ttl=10m type=NXDOMAI name=blitz.ahadns.com
-/ip dns static add ttl=10m type=NXDOMAI name=block.abstergo.it
-/ip dns static add ttl=10m type=NXDOMAI name=blocker.thethorsens.org
-/ip dns static add ttl=10m type=NXDOMAI name=blockerads.multimediaconcept.fr
-/ip dns static add ttl=10m type=NXDOMAI name=blog.kimiblock.top
-/ip dns static add ttl=10m type=NXDOMAI name=bluemood.me
-/ip dns static add ttl=10m type=NXDOMAI name=bom01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=br.servers.legat.ml
-/ip dns static add ttl=10m type=NXDOMAI name=bravedns.com
-/ip dns static add ttl=10m type=NXDOMAI name=buc-m2.illmods.com
-/ip dns static add ttl=10m type=NXDOMAI name=c.cicitt.ch
-/ip dns static add ttl=10m type=NXDOMAI name=ca-yyc.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=ca.doh.cloudveil.org
-/ip dns static add ttl=10m type=NXDOMAI name=ca01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=ca02.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=callies-online.site
-/ip dns static add ttl=10m type=NXDOMAI name=catdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=cdn.0ms.dev
-/ip dns static add ttl=10m type=NXDOMAI name=chandr1000.net
-/ip dns static add ttl=10m type=NXDOMAI name=chaos-system.de
-/ip dns static add ttl=10m type=NXDOMAI name=chrome.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=chromium.dns.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=clean.dnsforge.de
-/ip dns static add ttl=10m type=NXDOMAI name=cleanbrowsing.org
-/ip dns static add ttl=10m type=NXDOMAI name=clearweb.woodbridge.club
-/ip dns static add ttl=10m type=NXDOMAI name=clientdns3.softcom.net
-/ip dns static add ttl=10m type=NXDOMAI name=cloud.198.games
-/ip dns static add ttl=10m type=NXDOMAI name=cloud.samutz.com
-/ip dns static add ttl=10m type=NXDOMAI name=cloud.tezoi.com
-/ip dns static add ttl=10m type=NXDOMAI name=cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=cloudns.bosco.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=cluster-0.gac.edu
-/ip dns static add ttl=10m type=NXDOMAI name=cluster-1.gac.edu
-/ip dns static add ttl=10m type=NXDOMAI name=coe01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=common.dot.dns.yandex.net
-/ip dns static add ttl=10m type=NXDOMAI name=commons.host
-/ip dns static add ttl=10m type=NXDOMAI name=comss.one
-/ip dns static add ttl=10m type=NXDOMAI name=comss.ru
-/ip dns static add ttl=10m type=NXDOMAI name=console.carestyle.org
-/ip dns static add ttl=10m type=NXDOMAI name=crypto.sx
-/ip dns static add ttl=10m type=NXDOMAI name=cube.neubsi.at
-/ip dns static add ttl=10m type=NXDOMAI name=cubedns.com
-/ip dns static add ttl=10m type=NXDOMAI name=cvt01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=d.adguard-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=d.apemlegit.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=d.toairs.com
-/ip dns static add ttl=10m type=NXDOMAI name=d2.shabi.icu
-/ip dns static add ttl=10m type=NXDOMAI name=dandelionsprout.asuscomm.com
-/ip dns static add ttl=10m type=NXDOMAI name=darkness.is.my.waifu.cz
-/ip dns static add ttl=10m type=NXDOMAI name=dart.kpsn.org
-/ip dns static add ttl=10m type=NXDOMAI name=darya.persiannit.net
-/ip dns static add ttl=10m type=NXDOMAI name=de-dus.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=de-fra.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=de.teradns.org
-/ip dns static add ttl=10m type=NXDOMAI name=deic-lgb.anycast.censurfridns.dk
-/ip dns static add ttl=10m type=NXDOMAI name=deic-lgb.anycast.uncensoreddns.org
-/ip dns static add ttl=10m type=NXDOMAI name=deic-ore.anycast.censurfridns.dk
-/ip dns static add ttl=10m type=NXDOMAI name=deic-ore.anycast.uncensoreddns.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns-cybersec.nordthreatprotection.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-doh-no-safe-search.dnsforfamily.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-doh.dnsforfamily.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-dot.dnsforfamily.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-family.adguard.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-fr-psv1.cloudsides.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-free.link
-/ip dns static add ttl=10m type=NXDOMAI name=dns-malwaresec.nordthreatprotection.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns-nosec.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns-ovh.panszelescik.pl
-/ip dns static add ttl=10m type=NXDOMAI name=dns-privacy.puregeni.us
-/ip dns static add ttl=10m type=NXDOMAI name=dns-secondary.cloudnx.cloud
-/ip dns static add ttl=10m type=NXDOMAI name=dns-tls.bitwiseshift.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns-unfiltered.adguard.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.0ooo.icu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.0x55.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.23-4.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.240527.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.354688.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.4-the.win
-/ip dns static add ttl=10m type=NXDOMAI name=dns.52306.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.7sec.com.br
-/ip dns static add ttl=10m type=NXDOMAI name=dns.7vpn.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.886886886.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.888654.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.9999.sg
-/ip dns static add ttl=10m type=NXDOMAI name=dns.a47.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.aa.net.uk
-/ip dns static add ttl=10m type=NXDOMAI name=dns.abdullahabas.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.adguard-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.adguard.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.adrianlam.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.aerro.in
-/ip dns static add ttl=10m type=NXDOMAI name=dns.albony.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.alidns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.alloxr.info
-/ip dns static add ttl=10m type=NXDOMAI name=dns.almir1904.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.alvosec.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.andrewnw.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.globus.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.integration.globuscs.info
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.preview.globus.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.rackspacecloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.sandbox.globuscs.info
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.staging.globuscs.info
-/ip dns static add ttl=10m type=NXDOMAI name=dns.api.test.globuscs.info
-/ip dns static add ttl=10m type=NXDOMAI name=dns.apigw.online
-/ip dns static add ttl=10m type=NXDOMAI name=dns.aquilenet.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ares-taiwan.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.artikel10.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.asterimoon.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.azsopro.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.b33.space
-/ip dns static add ttl=10m type=NXDOMAI name=dns.b612.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.baishiyuan.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.bebasid.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.belnet.be
-/ip dns static add ttl=10m type=NXDOMAI name=dns.benpro.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.beta.gandi.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.bitservices.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns.blokada.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.bobstrecansky.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.bofh.in
-/ip dns static add ttl=10m type=NXDOMAI name=dns.brahma.world
-/ip dns static add ttl=10m type=NXDOMAI name=dns.bw.i81.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.carson-family.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.carter.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ceai.com.tw
-/ip dns static add ttl=10m type=NXDOMAI name=dns.chadeyron.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.charraud.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.chenu.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns.chromeina.top
-/ip dns static add ttl=10m type=NXDOMAI name=dns.circl.lu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.clanless.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=dns.clanto.cloud
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cloud88.com.au
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cloudfiction.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cloudflare.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cloudtrust.solutions
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cmrg.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.colorfreedom.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.comeonjames.club
-/ip dns static add ttl=10m type=NXDOMAI name=dns.comss.one
-/ip dns static add ttl=10m type=NXDOMAI name=dns.connect.fail
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cryptomize.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cwlys.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.cynthialabs.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.d4d.moe
-/ip dns static add ttl=10m type=NXDOMAI name=dns.d94.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.d96.info
-/ip dns static add ttl=10m type=NXDOMAI name=dns.daemon.za.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.david888.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.daw.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.decloudus.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dekedin.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dev-umbrellagov.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dgea.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.digitale-gesellschaft.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns.digitalsize.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dnshome.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dnssilo.top
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dnswarden.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.doh.best
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dotnet.win
-/ip dns static add ttl=10m type=NXDOMAI name=dns.dyn1.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.east.comss.one
-/ip dns static add ttl=10m type=NXDOMAI name=dns.eddi.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.edison42.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.elemental.software
-/ip dns static add ttl=10m type=NXDOMAI name=dns.emiliyan.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.enzonix.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.eu-frankfurt-1.oraclecloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.expert
-/ip dns static add ttl=10m type=NXDOMAI name=dns.extrawdw.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.f97.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.fancyorg.at
-/ip dns static add ttl=10m type=NXDOMAI name=dns.filipccz.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.flatuslifir.is
-/ip dns static add ttl=10m type=NXDOMAI name=dns.flwagners.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.flymc.cc
-/ip dns static add ttl=10m type=NXDOMAI name=dns.freyja.pw
-/ip dns static add ttl=10m type=NXDOMAI name=dns.froth.zone
-/ip dns static add ttl=10m type=NXDOMAI name=dns.fullaccesstointernet.jp.eu.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.furrydns.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.futuredns.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.gamban.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.gi.co.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ginovs.nl
-/ip dns static add ttl=10m type=NXDOMAI name=dns.glorydns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.gnb09.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.goldplate.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.google
-/ip dns static add ttl=10m type=NXDOMAI name=dns.google.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.grqu.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.guard.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ha-dvin.pp.ua
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hahnjo.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hanahira.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hanmey.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.henek.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hinet.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.horcrux.vip
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hostux.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hotta.page
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hugo0.moe
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hujiayucc.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.huseynov.work
-/ip dns static add ttl=10m type=NXDOMAI name=dns.huyhoangit.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.hypercute.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.iamninja.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ian.rocks
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ihaveacloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ikataruto.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.iki.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.imaicool.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.indust.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.indybanipal.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.infosec.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.interhub.cc
-/ip dns static add ttl=10m type=NXDOMAI name=dns.internal.hosmatic.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ipv6dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.islandnet.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.janl.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.jinwoo.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.joaofidelix.com.br
-/ip dns static add ttl=10m type=NXDOMAI name=dns.joey01245.nl
-/ip dns static add ttl=10m type=NXDOMAI name=dns.jstockley.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.jundev.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.justinnetworkingsolutions.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.k3nny.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kamilszczepanski.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.karl.one
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kawa.tf
-/ip dns static add ttl=10m type=NXDOMAI name=dns.keke125.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kerekes.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kernel-error.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kescher.at
-/ip dns static add ttl=10m type=NXDOMAI name=dns.keweon.center
-/ip dns static add ttl=10m type=NXDOMAI name=dns.koala.us.to
-/ip dns static add ttl=10m type=NXDOMAI name=dns.korzhyk.pp.ua
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kosan.moe
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kugoapps.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kukal.cz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.kusoneko.moe
-/ip dns static add ttl=10m type=NXDOMAI name=dns.l337.site
-/ip dns static add ttl=10m type=NXDOMAI name=dns.labnekotest.site
-/ip dns static add ttl=10m type=NXDOMAI name=dns.lars-lehmann.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.lashes-brow.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.levonet.sk
-/ip dns static add ttl=10m type=NXDOMAI name=dns.lgprk.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.linkr.ninja
-/ip dns static add ttl=10m type=NXDOMAI name=dns.lista.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.lobbygod.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.lvolland.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mandre.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.maolaohei.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mathewakhil.online
-/ip dns static add ttl=10m type=NXDOMAI name=dns.maybe.icu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.meeo.win
-/ip dns static add ttl=10m type=NXDOMAI name=dns.melalandia.tk
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mestdag.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mihanentalpo.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mikeliu.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mikrotikrumahan.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.milkpie.one
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mo0on15.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.molinero.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.moog.sh
-/ip dns static add ttl=10m type=NXDOMAI name=dns.moonssif.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.moulticast.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.msxnet.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.murgi.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.muxinghe.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.mzrme.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.narl.app
-/ip dns static add ttl=10m type=NXDOMAI name=dns.nas-server.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.neilzone.co.uk
-/ip dns static add ttl=10m type=NXDOMAI name=dns.neubsi.at
-/ip dns static add ttl=10m type=NXDOMAI name=dns.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns.nhtsky.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ningkelle.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.njal.la
-/ip dns static add ttl=10m type=NXDOMAI name=dns.norvig.dk
-/ip dns static add ttl=10m type=NXDOMAI name=dns.novali.date
-/ip dns static add ttl=10m type=NXDOMAI name=dns.novg.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.npe.bz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.npsolution.it
-/ip dns static add ttl=10m type=NXDOMAI name=dns.nullgate.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ofdoom.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.oliviertv.co.za
-/ip dns static add ttl=10m type=NXDOMAI name=dns.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.oszx.co
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ours.luxe
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ovpn.bond
-/ip dns static add ttl=10m type=NXDOMAI name=dns.paesa.es
-/ip dns static add ttl=10m type=NXDOMAI name=dns.panszelescik.pl
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pccoach.nl
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pernika.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pesaventofilippo.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.phillipjberry.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pnh.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.porteii.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pragmasec.nl
-/ip dns static add ttl=10m type=NXDOMAI name=dns.privado.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pub
-/ip dns static add ttl=10m type=NXDOMAI name=dns.pumpkinvrar.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rafn.is
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rayanbab.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rbn.gr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.reckoningslug.name
-/ip dns static add ttl=10m type=NXDOMAI name=dns.repinger.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.retakecs.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rin.sh
-/ip dns static add ttl=10m type=NXDOMAI name=dns.ronc.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rootlab.top
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rotunneling.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.rubyfish.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sarak.as
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sarilouis.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sb
-/ip dns static add ttl=10m type=NXDOMAI name=dns.scapetical.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.scarx.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.schlagheck.berlin
-/ip dns static add ttl=10m type=NXDOMAI name=dns.scuola.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.seiffert.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sellan.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sev.monster
-/ip dns static add ttl=10m type=NXDOMAI name=dns.shecan.ir
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sheggi.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns.shimul.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.silen.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.silentlybren.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.simplylinux.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns.siry.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sitdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.skrep.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns.skrep.in
-/ip dns static add ttl=10m type=NXDOMAI name=dns.slinkyman.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.smartguard.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns.spil.co.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.spirio.fr
-/ip dns static add ttl=10m type=NXDOMAI name=dns.sstomp.nl
-/ip dns static add ttl=10m type=NXDOMAI name=dns.startupstack.tech
-/ip dns static add ttl=10m type=NXDOMAI name=dns.stevenz.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.strassmair.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.superstefan.win
-/ip dns static add ttl=10m type=NXDOMAI name=dns.svoi.dev
-/ip dns static add ttl=10m type=NXDOMAI name=dns.swin.pro
-/ip dns static add ttl=10m type=NXDOMAI name=dns.switch.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns.syaifullah.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.t53.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.technostriker.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.telekom.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.tesem.dog
-/ip dns static add ttl=10m type=NXDOMAI name=dns.thebuckners.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns.thegoodsource.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.theres.one
-/ip dns static add ttl=10m type=NXDOMAI name=dns.therifleman.name
-/ip dns static add ttl=10m type=NXDOMAI name=dns.tls-data.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.tracker.ink
-/ip dns static add ttl=10m type=NXDOMAI name=dns.trust404.win
-/ip dns static add ttl=10m type=NXDOMAI name=dns.tryk.app
-/ip dns static add ttl=10m type=NXDOMAI name=dns.tuna.tsinghua.edu.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.twnic.tw
-/ip dns static add ttl=10m type=NXDOMAI name=dns.txq.life
-/ip dns static add ttl=10m type=NXDOMAI name=dns.uk-london-1.oraclecloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.umbrella.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.unerror.network
-/ip dns static add ttl=10m type=NXDOMAI name=dns.unx.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns.uplenk.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.us-ashburn-1.oraclecloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.us-phoenix-1.oraclecloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.vinnyp.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.vinokurov.tk
-/ip dns static add ttl=10m type=NXDOMAI name=dns.vishalk.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.vmath.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=dns.wahr.top
-/ip dns static add ttl=10m type=NXDOMAI name=dns.wakgood.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns.wang.art
-/ip dns static add ttl=10m type=NXDOMAI name=dns.wargan.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns.warma.me
-/ip dns static add ttl=10m type=NXDOMAI name=dns.warpnine.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns.watch
-/ip dns static add ttl=10m type=NXDOMAI name=dns.weixin.qq.com.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns.xwdmw.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=dns.yameenassotally.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns.yandex.ru
-/ip dns static add ttl=10m type=NXDOMAI name=dns.yatima.tv
-/ip dns static add ttl=10m type=NXDOMAI name=dns.youni.win
-/ip dns static add ttl=10m type=NXDOMAI name=dns.zfsystem.tech
-/ip dns static add ttl=10m type=NXDOMAI name=dns.zzuhacker.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dns0.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns01.flm9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.au.newpangea.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.cl.newpangea.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.conne.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.digitale-gesellschaft.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.dnscrypt.ca
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.in-berlin.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.in.newpangea.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.irumatech.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.klcd.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.lothuscorp.com.br
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.nielsdb.be
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.nordvpn.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.pietjacobs.be
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.ryan-palmer.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.sg.newpangea.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.techeasy.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns1.us.newpangea.de
-/ip dns static add ttl=10m type=NXDOMAI name=dns10.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns11.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns12.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns13.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.cbio.top
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.digitale-gesellschaft.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.guidocioni.it
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.klcd.eu
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.linzefeng.top
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.nordvpn.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns2.saferbfc.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns4.imkvq.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=dns64.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dns64.dns.google
-/ip dns static add ttl=10m type=NXDOMAI name=dns8.org
-/ip dns static add ttl=10m type=NXDOMAI name=dns9.quad9.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnscache.e-utp.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnsforfamily.com
-/ip dns static add ttl=10m type=NXDOMAI name=dnsforge.de
-/ip dns static add ttl=10m type=NXDOMAI name=dnslow.me
-/ip dns static add ttl=10m type=NXDOMAI name=dnsnl-noads.alekberg.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnsnl.alekberg.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnsotls.lab.nic.cl
-/ip dns static add ttl=10m type=NXDOMAI name=dnsovertls.sinodun.com
-/ip dns static add ttl=10m type=NXDOMAI name=dnsovertls1.sinodun.com
-/ip dns static add ttl=10m type=NXDOMAI name=dnsovertls2.sinodun.com
-/ip dns static add ttl=10m type=NXDOMAI name=dnsovertls3.sinodun.com
-/ip dns static add ttl=10m type=NXDOMAI name=dnspub.restena.lu
-/ip dns static add ttl=10m type=NXDOMAI name=dnsse-noads.alekberg.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnsse.alekberg.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnstls.mobik.com
-/ip dns static add ttl=10m type=NXDOMAI name=dnsvps.familiamv.net
-/ip dns static add ttl=10m type=NXDOMAI name=dnswebvsn.com
-/ip dns static add ttl=10m type=NXDOMAI name=do.dnscrypt.uk
-/ip dns static add ttl=10m type=NXDOMAI name=do.shimul.me
-/ip dns static add ttl=10m type=NXDOMAI name=dog.dns.qwer.pw
-/ip dns static add ttl=10m type=NXDOMAI name=doh-01.spectrum.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-02.spectrum.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-2.seby.io
-/ip dns static add ttl=10m type=NXDOMAI name=doh-ca.naftalie.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh-ch.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-de.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-fi.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-ipv6.crypto.sx
-/ip dns static add ttl=10m type=NXDOMAI name=doh-jp.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-primary-pool.detoxifypornblocker.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-primary-pool.goodbyegambling.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh-sg.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.30x.me
-/ip dns static add ttl=10m type=NXDOMAI name=doh.360.cn
-/ip dns static add ttl=10m type=NXDOMAI name=doh.42l.fr
-/ip dns static add ttl=10m type=NXDOMAI name=doh.aaaab3n.moe
-/ip dns static add ttl=10m type=NXDOMAI name=doh.abraservice.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=doh.apad.pro
-/ip dns static add ttl=10m type=NXDOMAI name=doh.applied-privacy.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.appliedprivacy.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.archuser.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.asia.dnswarden.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.azoris.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=doh.beauty
-/ip dns static add ttl=10m type=NXDOMAI name=doh.boje8.me
-/ip dns static add ttl=10m type=NXDOMAI name=doh.bortzmeyer.fr
-/ip dns static add ttl=10m type=NXDOMAI name=doh.bt.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.buzz
-/ip dns static add ttl=10m type=NXDOMAI name=doh.captnemo.in
-/ip dns static add ttl=10m type=NXDOMAI name=doh.ccb-net.it
-/ip dns static add ttl=10m type=NXDOMAI name=doh.centraleu.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.cleanbrowsing.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.cnetwork.cloud
-/ip dns static add ttl=10m type=NXDOMAI name=doh.cox.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.crypto.sx
-/ip dns static add ttl=10m type=NXDOMAI name=doh.datacore.ch
-/ip dns static add ttl=10m type=NXDOMAI name=doh.datahata.by
-/ip dns static add ttl=10m type=NXDOMAI name=doh.defaultroutes.de
-/ip dns static add ttl=10m type=NXDOMAI name=doh.disconnect.app
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dns-ga.de
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dns.apple.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dns.apple.com.v.aaplimg.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dns.sb
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dns1.lonet.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dns4all.eu
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dnscrypt.uk
-/ip dns static add ttl=10m type=NXDOMAI name=doh.dscloud.me
-/ip dns static add ttl=10m type=NXDOMAI name=doh.eastas.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.eastau.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.eastus.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.eu.dnswarden.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.familyshield.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.ffmuc.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.funil.de
-/ip dns static add ttl=10m type=NXDOMAI name=doh.funtopia.tv
-/ip dns static add ttl=10m type=NXDOMAI name=doh.futa.gg
-/ip dns static add ttl=10m type=NXDOMAI name=doh.gcp.pathofgrace.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.hottis.de
-/ip dns static add ttl=10m type=NXDOMAI name=doh.ibr.cs.tu-bs.de
-/ip dns static add ttl=10m type=NXDOMAI name=doh.infotek.net.id
-/ip dns static add ttl=10m type=NXDOMAI name=doh.infracell.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.iucc.ac.il
-/ip dns static add ttl=10m type=NXDOMAI name=doh.jeroenhd.nl
-/ip dns static add ttl=10m type=NXDOMAI name=doh.kekew.info
-/ip dns static add ttl=10m type=NXDOMAI name=doh.killtw.im
-/ip dns static add ttl=10m type=NXDOMAI name=doh.kooman.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.la.ahadns.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.lacontrevoie.fr
-/ip dns static add ttl=10m type=NXDOMAI name=doh.li
-/ip dns static add ttl=10m type=NXDOMAI name=doh.libredns.gr
-/ip dns static add ttl=10m type=NXDOMAI name=doh.luigi.nexific.it
-/ip dns static add ttl=10m type=NXDOMAI name=doh.lv
-/ip dns static add ttl=10m type=NXDOMAI name=doh.maskab.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.max.net.id
-/ip dns static add ttl=10m type=NXDOMAI name=doh.micronets.in
-/ip dns static add ttl=10m type=NXDOMAI name=doh.mmmalia.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.morizt.id
-/ip dns static add ttl=10m type=NXDOMAI name=doh.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.neowutran.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=doh.nic.lv
-/ip dns static add ttl=10m type=NXDOMAI name=doh.niyawe.de
-/ip dns static add ttl=10m type=NXDOMAI name=doh.nl.ahadns.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.northeu.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.ntu.ssooss.win
-/ip dns static add ttl=10m type=NXDOMAI name=doh.onedns.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.phdns1.lonet.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.phdns2.lonet.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.phdns3.lonet.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.phdns4.lonet.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.phdns5.lonet.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.port53.dk
-/ip dns static add ttl=10m type=NXDOMAI name=doh.powerdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.pub
-/ip dns static add ttl=10m type=NXDOMAI name=doh.pyry.me
-/ip dns static add ttl=10m type=NXDOMAI name=doh.qis.io
-/ip dns static add ttl=10m type=NXDOMAI name=doh.quickline.ch
-/ip dns static add ttl=10m type=NXDOMAI name=doh.rezhajul.io
-/ip dns static add ttl=10m type=NXDOMAI name=doh.runsel.id
-/ip dns static add ttl=10m type=NXDOMAI name=doh.safesurfer.io
-/ip dns static add ttl=10m type=NXDOMAI name=doh.sandbox.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=doh.seby.io
-/ip dns static add ttl=10m type=NXDOMAI name=doh.sidnlabs.nl
-/ip dns static add ttl=10m type=NXDOMAI name=doh.syshero.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.technochat.in
-/ip dns static add ttl=10m type=NXDOMAI name=doh.tiar.app
-/ip dns static add ttl=10m type=NXDOMAI name=doh.tiarap.org
-/ip dns static add ttl=10m type=NXDOMAI name=doh.totoro.pub
-/ip dns static add ttl=10m type=NXDOMAI name=doh.umbrella.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.us.dnswarden.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.valscosmos.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.viatech.com.tw
-/ip dns static add ttl=10m type=NXDOMAI name=doh.westus.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.wewitro.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh.xcom.pro
-/ip dns static add ttl=10m type=NXDOMAI name=doh.xfinity.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=doh.zephyrus.id
-/ip dns static add ttl=10m type=NXDOMAI name=doh003.280blocker.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh1.b-cdn.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh1.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh2.b-cdn.net
-/ip dns static add ttl=10m type=NXDOMAI name=doh2.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=doh2.gslb2.xfinity.com
-/ip dns static add ttl=10m type=NXDOMAI name=dohdot.coxlab.net
-/ip dns static add ttl=10m type=NXDOMAI name=dohtrial.att.net
-/ip dns static add ttl=10m type=NXDOMAI name=dot-ch.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot-de.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot-fi.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot-jp.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot-sg.blahdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.360.cn
-/ip dns static add ttl=10m type=NXDOMAI name=dot.centraleu.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.cox.net
-/ip dns static add ttl=10m type=NXDOMAI name=dot.eastas.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.eastau.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.eastus.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.ffmuc.net
-/ip dns static add ttl=10m type=NXDOMAI name=dot.la.ahadns.net
-/ip dns static add ttl=10m type=NXDOMAI name=dot.libredns.gr
-/ip dns static add ttl=10m type=NXDOMAI name=dot.libredns.gr.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.nl.ahadns.net
-/ip dns static add ttl=10m type=NXDOMAI name=dot.northeu.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.occ.top
-/ip dns static add ttl=10m type=NXDOMAI name=dot.pub
-/ip dns static add ttl=10m type=NXDOMAI name=dot.quickline.ch
-/ip dns static add ttl=10m type=NXDOMAI name=dot.seby.io
-/ip dns static add ttl=10m type=NXDOMAI name=dot.tiar.app
-/ip dns static add ttl=10m type=NXDOMAI name=dot.tooli.ca
-/ip dns static add ttl=10m type=NXDOMAI name=dot.westus.pi-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot.xfinity.com
-/ip dns static add ttl=10m type=NXDOMAI name=dot1.applied-privacy.net
-/ip dns static add ttl=10m type=NXDOMAI name=dot1.appliedprivacy.net
-/ip dns static add ttl=10m type=NXDOMAI name=dotdns.cryptroute.com
-/ip dns static add ttl=10m type=NXDOMAI name=doth.huque.com
-/ip dns static add ttl=10m type=NXDOMAI name=drs.rustsword.com
-/ip dns static add ttl=10m type=NXDOMAI name=dtw01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=dub01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=dukun.de
-/ip dns static add ttl=10m type=NXDOMAI name=dus01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=ea-dns.rubyfish.cn
-/ip dns static add ttl=10m type=NXDOMAI name=easyhandshake.com
-/ip dns static add ttl=10m type=NXDOMAI name=echoe1yidzu4ioo5.myfritz.net
-/ip dns static add ttl=10m type=NXDOMAI name=edgy-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=edns.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=ee-tll.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=emby.rasp.tv
-/ip dns static add ttl=10m type=NXDOMAI name=esel.stusta.mhn.de
-/ip dns static add ttl=10m type=NXDOMAI name=eu1.dns.lavate.ch
-/ip dns static add ttl=10m type=NXDOMAI name=everovpn.co
-/ip dns static add ttl=10m type=NXDOMAI name=extended.dns.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=externalmobiel.lekdijk.online
-/ip dns static add ttl=10m type=NXDOMAI name=family-filter-dns.cleanbrowsing.org
-/ip dns static add ttl=10m type=NXDOMAI name=family.5ososea.com
-/ip dns static add ttl=10m type=NXDOMAI name=family.adguard-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=family.canadianshield.cira.ca
-/ip dns static add ttl=10m type=NXDOMAI name=family.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=family.dns.mullvad.net
-/ip dns static add ttl=10m type=NXDOMAI name=family.dns.ningkelle.id
-/ip dns static add ttl=10m type=NXDOMAI name=family.dns.yandex.ru
-/ip dns static add ttl=10m type=NXDOMAI name=family.dot.dns.yandex.net
-/ip dns static add ttl=10m type=NXDOMAI name=family.freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=family.mydns.network
-/ip dns static add ttl=10m type=NXDOMAI name=family.puredns.org
-/ip dns static add ttl=10m type=NXDOMAI name=familyshield.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=fdns1.dismail.de
-/ip dns static add ttl=10m type=NXDOMAI name=fdns2.dismail.de
-/ip dns static add ttl=10m type=NXDOMAI name=fezgate.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=firefox.dns.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=fjr01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=fly.io
-/ip dns static add ttl=10m type=NXDOMAI name=fr-dns1.bancuh.com
-/ip dns static add ttl=10m type=NXDOMAI name=fr1.dnswarden.com
-/ip dns static add ttl=10m type=NXDOMAI name=fra-dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=fra01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=fra1.eyecay.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=free.bravedns.com
-/ip dns static add ttl=10m type=NXDOMAI name=free.shecan.ir
-/ip dns static add ttl=10m type=NXDOMAI name=freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=freedom.mydns.network
-/ip dns static add ttl=10m type=NXDOMAI name=frog.dns.qwer.pw
-/ip dns static add ttl=10m type=NXDOMAI name=fuchur.pentament.de
-/ip dns static add ttl=10m type=NXDOMAI name=fwgw.orangepipc.mywire.org
-/ip dns static add ttl=10m type=NXDOMAI name=galileo.math.unipd.it
-/ip dns static add ttl=10m type=NXDOMAI name=gateway.fomichev.cloud
-/ip dns static add ttl=10m type=NXDOMAI name=gclouddns.com
-/ip dns static add ttl=10m type=NXDOMAI name=geg01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=geshido.vpn.geshido.ru
-/ip dns static add ttl=10m type=NXDOMAI name=getdnsapi.net
-/ip dns static add ttl=10m type=NXDOMAI name=google-public-dns-a.google.com
-/ip dns static add ttl=10m type=NXDOMAI name=google-public-dns-b.google.com
-/ip dns static add ttl=10m type=NXDOMAI name=guard.sntrk.ru
-/ip dns static add ttl=10m type=NXDOMAI name=gustamadh.dynv6.net
-/ip dns static add ttl=10m type=NXDOMAI name=gztech.me
-/ip dns static add ttl=10m type=NXDOMAI name=h.gjrick.tw
-/ip dns static add ttl=10m type=NXDOMAI name=helios.plan9-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=hitian.me
-/ip dns static add ttl=10m type=NXDOMAI name=hk-hkg.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=hk2.ooroot.com
-/ip dns static add ttl=10m type=NXDOMAI name=hkg01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=hkname.freecdn.one
-/ip dns static add ttl=10m type=NXDOMAI name=hole.elbschloss.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=home.enjoymylife.net
-/ip dns static add ttl=10m type=NXDOMAI name=home.wriedts.de
-/ip dns static add ttl=10m type=NXDOMAI name=home27.duckdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=hostdare.qtxd.net
-/ip dns static add ttl=10m type=NXDOMAI name=hshh.org
-/ip dns static add ttl=10m type=NXDOMAI name=httpdns-push.heytapmobile.com
-/ip dns static add ttl=10m type=NXDOMAI name=httpdns-sc.aliyuncs.com
-/ip dns static add ttl=10m type=NXDOMAI name=httpdns.meituan.com
-/ip dns static add ttl=10m type=NXDOMAI name=i.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=iana.tenta.io
-/ip dns static add ttl=10m type=NXDOMAI name=ibksturm.synology.me
-/ip dns static add ttl=10m type=NXDOMAI name=ibuki.cgnat.net
-/ip dns static add ttl=10m type=NXDOMAI name=id.terra.my.id
-/ip dns static add ttl=10m type=NXDOMAI name=ihctw.synology.me
-/ip dns static add ttl=10m type=NXDOMAI name=iij.jp
-/ip dns static add ttl=10m type=NXDOMAI name=ikarosalpha.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=in-blr.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=ines.zfn.uni-bremen.de
-/ip dns static add ttl=10m type=NXDOMAI name=inpssh.online
-/ip dns static add ttl=10m type=NXDOMAI name=internetsehat.bebasid.com
-/ip dns static add ttl=10m type=NXDOMAI name=iow-dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=ipoac.nl
-/ip dns static add ttl=10m type=NXDOMAI name=ivnkn.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=jabber-germany.de
-/ip dns static add ttl=10m type=NXDOMAI name=jackyes.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=jnb01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=jp-dns1.bancuh.com
-/ip dns static add ttl=10m type=NXDOMAI name=jp-kix.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=jp-nrt.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=jp.68360612.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=jp.tiar.app
-/ip dns static add ttl=10m type=NXDOMAI name=jp.tiarap.org
-/ip dns static add ttl=10m type=NXDOMAI name=jp1.f7b6h9.tk
-/ip dns static add ttl=10m type=NXDOMAI name=jp2.ooroot.com
-/ip dns static add ttl=10m type=NXDOMAI name=jpdns.cola16.app
-/ip dns static add ttl=10m type=NXDOMAI name=jurre-home.duckdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=justhost.bedro.cloud
-/ip dns static add ttl=10m type=NXDOMAI name=kaitain.restena.lu
-/ip dns static add ttl=10m type=NXDOMAI name=keithchung.hopto.org
-/ip dns static add ttl=10m type=NXDOMAI name=kids.5ososea.com
-/ip dns static add ttl=10m type=NXDOMAI name=kids.dns0.eu
-/ip dns static add ttl=10m type=NXDOMAI name=kilabit.info
-/ip dns static add ttl=10m type=NXDOMAI name=kiv01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=korzhov.dev
-/ip dns static add ttl=10m type=NXDOMAI name=kr-sel.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=kr1.ooroot.com
-/ip dns static add ttl=10m type=NXDOMAI name=kr2.ooroot.com
-/ip dns static add ttl=10m type=NXDOMAI name=kracon.anycast.censurfridns.dk
-/ip dns static add ttl=10m type=NXDOMAI name=kracon.anycast.uncensoreddns.org
-/ip dns static add ttl=10m type=NXDOMAI name=kronos.plan9-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=krtekvpn.duckdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=la.ray0512.win
-/ip dns static add ttl=10m type=NXDOMAI name=las01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=lastentarvike.fi
-/ip dns static add ttl=10m type=NXDOMAI name=lax01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=lax02.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=lelux.fi
-/ip dns static add ttl=10m type=NXDOMAI name=lindung.pp.ua
-/ip dns static add ttl=10m type=NXDOMAI name=lion.dns.qwer.pw
-/ip dns static add ttl=10m type=NXDOMAI name=lion.yazilimatolye.com
-/ip dns static add ttl=10m type=NXDOMAI name=llk01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=local.sufly.top
-/ip dns static add ttl=10m type=NXDOMAI name=lon-dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=lon01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=lux1.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=lv1.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=mad01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=mail.data.haus
-/ip dns static add ttl=10m type=NXDOMAI name=mailer.amlegion.org
-/ip dns static add ttl=10m type=NXDOMAI name=mailkyb.co
-/ip dns static add ttl=10m type=NXDOMAI name=mainframe.dewed.de
-/ip dns static add ttl=10m type=NXDOMAI name=mask-api.icloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=mask-h2.icloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=mask.icloud.com
-/ip dns static add ttl=10m type=NXDOMAI name=masters-of-cloud.de
-/ip dns static add ttl=10m type=NXDOMAI name=max.rethinkdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=meganerd.nl
-/ip dns static add ttl=10m type=NXDOMAI name=megumin.is.my.waifu.cz
-/ip dns static add ttl=10m type=NXDOMAI name=mia01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=minilla.store
-/ip dns static add ttl=10m type=NXDOMAI name=morbitzer.de
-/ip dns static add ttl=10m type=NXDOMAI name=mozilla.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=msr177.com
-/ip dns static add ttl=10m type=NXDOMAI name=muc01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=muli.stusta.mhn.de
-/ip dns static add ttl=10m type=NXDOMAI name=muxyuji.ru
-/ip dns static add ttl=10m type=NXDOMAI name=n0.eu
-/ip dns static add ttl=10m type=NXDOMAI name=n5.lsasss.com
-/ip dns static add ttl=10m type=NXDOMAI name=nanopi.cybergroove.net
-/ip dns static add ttl=10m type=NXDOMAI name=nat64.tuxis.nl
-/ip dns static add ttl=10m type=NXDOMAI name=naw01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=ndns.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=nebula.tru.io
-/ip dns static add ttl=10m type=NXDOMAI name=nenam.eu
-/ip dns static add ttl=10m type=NXDOMAI name=nl-ams.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=nl-ams2.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=noads.imbuffering.com
-/ip dns static add ttl=10m type=NXDOMAI name=ns.00dani.me
-/ip dns static add ttl=10m type=NXDOMAI name=ns.data.haus
-/ip dns static add ttl=10m type=NXDOMAI name=ns.lov.host
-/ip dns static add ttl=10m type=NXDOMAI name=ns.mtsoln.com
-/ip dns static add ttl=10m type=NXDOMAI name=ns.ral9005.org
-/ip dns static add ttl=10m type=NXDOMAI name=ns0.fdn.fr
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.dotls.org
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.fdn.fr
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.flodns.net
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.opennameserver.org
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.qquack.org
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.recursive.dnsbycomodo.com
-/ip dns static add ttl=10m type=NXDOMAI name=ns1.sc-lezhi.com
-/ip dns static add ttl=10m type=NXDOMAI name=ns2.flodns.net
-/ip dns static add ttl=10m type=NXDOMAI name=ns2.opennameserver.org
-/ip dns static add ttl=10m type=NXDOMAI name=ns2.recursive.dnsbycomodo.com
-/ip dns static add ttl=10m type=NXDOMAI name=ns3.bit-trail.nl
-/ip dns static add ttl=10m type=NXDOMAI name=ns3.com
-/ip dns static add ttl=10m type=NXDOMAI name=ns3.cx
-/ip dns static add ttl=10m type=NXDOMAI name=ns3.link
-/ip dns static add ttl=10m type=NXDOMAI name=ns3.opennameserver.org
-/ip dns static add ttl=10m type=NXDOMAI name=ns4.opennameserver.org
-/ip dns static add ttl=10m type=NXDOMAI name=nsc.torgues.net
-/ip dns static add ttl=10m type=NXDOMAI name=nsec.arnor.org
-/ip dns static add ttl=10m type=NXDOMAI name=nue2.moderateinfra.net
-/ip dns static add ttl=10m type=NXDOMAI name=nvi-dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=ny.teradns.org
-/ip dns static add ttl=10m type=NXDOMAI name=ny1.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=nyc01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=nz01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=o.rsaikat.com
-/ip dns static add ttl=10m type=NXDOMAI name=o1.lt
-/ip dns static add ttl=10m type=NXDOMAI name=odoh.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=odoh.crypto.sx
-/ip dns static add ttl=10m type=NXDOMAI name=odvr.nic.cz
-/ip dns static add ttl=10m type=NXDOMAI name=one.one.one.one
-/ip dns static add ttl=10m type=NXDOMAI name=open.dns0.eu
-/ip dns static add ttl=10m type=NXDOMAI name=opencdn.jomodns.com
-/ip dns static add ttl=10m type=NXDOMAI name=opennic.i2pd.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=opennic.tenta.io
-/ip dns static add ttl=10m type=NXDOMAI name=opennic1.eth-services.de
-/ip dns static add ttl=10m type=NXDOMAI name=opennic2.i2pd.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=opera.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=oraclejp2.chungyu.com
-/ip dns static add ttl=10m type=NXDOMAI name=orau.lz0724.com
-/ip dns static add ttl=10m type=NXDOMAI name=ord01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=ordns.he.net
-/ip dns static add ttl=10m type=NXDOMAI name=ore-dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=orpi.privado.ovh
-/ip dns static add ttl=10m type=NXDOMAI name=osefcorp.duckdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=outdoorchair.us
-/ip dns static add ttl=10m type=NXDOMAI name=p0.freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=p1.freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=p2.freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=p3.freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=paranoia.mydns.network
-/ip dns static add ttl=10m type=NXDOMAI name=pates.services.sfr.fr.casepp.sfr.fr
-/ip dns static add ttl=10m type=NXDOMAI name=paulo.nom.za
-/ip dns static add ttl=10m type=NXDOMAI name=pdns.faelix.net
-/ip dns static add ttl=10m type=NXDOMAI name=pdns.itxe.net
-/ip dns static add ttl=10m type=NXDOMAI name=pdx01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=per.adfilter.net
-/ip dns static add ttl=10m type=NXDOMAI name=phl01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=phx01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=pi1.node15.com
-/ip dns static add ttl=10m type=NXDOMAI name=pihole.aws.ketan.dev
-/ip dns static add ttl=10m type=NXDOMAI name=pihole.datamatter.co.za
-/ip dns static add ttl=10m type=NXDOMAI name=pihole1.hoerli.net
-/ip dns static add ttl=10m type=NXDOMAI name=pihole2.hoerli.net
-/ip dns static add ttl=10m type=NXDOMAI name=pihole3.hoerli.net
-/ip dns static add ttl=10m type=NXDOMAI name=pihole4.hoerli.net
-/ip dns static add ttl=10m type=NXDOMAI name=pluton.plan9-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=pooblet.co.za
-/ip dns static add ttl=10m type=NXDOMAI name=pope.cnblw.me
-/ip dns static add ttl=10m type=NXDOMAI name=privacy.plumedns.com
-/ip dns static add ttl=10m type=NXDOMAI name=privacydns.go6lab.si
-/ip dns static add ttl=10m type=NXDOMAI name=private.canadianshield.cira.ca
-/ip dns static add ttl=10m type=NXDOMAI name=privatnas.servebeer.com
-/ip dns static add ttl=10m type=NXDOMAI name=pro.shecan.ir
-/ip dns static add ttl=10m type=NXDOMAI name=project-evoex.de
-/ip dns static add ttl=10m type=NXDOMAI name=protected.canadianshield.cira.ca
-/ip dns static add ttl=10m type=NXDOMAI name=ps1.modr.club
-/ip dns static add ttl=10m type=NXDOMAI name=public-dns-a.dns.sb
-/ip dns static add ttl=10m type=NXDOMAI name=public-dns-b.dns.sb
-/ip dns static add ttl=10m type=NXDOMAI name=public.dns.iij.jp
-/ip dns static add ttl=10m type=NXDOMAI name=punono.duckdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=puredns.org
-/ip dns static add ttl=10m type=NXDOMAI name=qlf-doh.inria.fr
-/ip dns static add ttl=10m type=NXDOMAI name=qual.cuprum.ru
-/ip dns static add ttl=10m type=NXDOMAI name=query.hdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=quic.lol
-/ip dns static add ttl=10m type=NXDOMAI name=r1bnc.com
-/ip dns static add ttl=10m type=NXDOMAI name=rayneau.fr
-/ip dns static add ttl=10m type=NXDOMAI name=rdns.faelix.net
-/ip dns static add ttl=10m type=NXDOMAI name=rdu01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=res-acst1.absolight.net
-/ip dns static add ttl=10m type=NXDOMAI name=res-acst2.absolight.net
-/ip dns static add ttl=10m type=NXDOMAI name=res-acst3.absolight.net
-/ip dns static add ttl=10m type=NXDOMAI name=resolver-eu.haringstad.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver.noaddns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver.r0cket.net
-/ip dns static add ttl=10m type=NXDOMAI name=resolver.rferee.dev
-/ip dns static add ttl=10m type=NXDOMAI name=resolver.sunet.se
-/ip dns static add ttl=10m type=NXDOMAI name=resolver.unstoppable.io
-/ip dns static add ttl=10m type=NXDOMAI name=resolver1-fs.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver1.absolight.net
-/ip dns static add ttl=10m type=NXDOMAI name=resolver1.ipv6-sandbox.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver1.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver2-fs.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver2.absolight.net
-/ip dns static add ttl=10m type=NXDOMAI name=resolver2.ipv6-sandbox.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver2.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=resolver3.absolight.net
-/ip dns static add ttl=10m type=NXDOMAI name=resolver4.dns.openinternet.io
-/ip dns static add ttl=10m type=NXDOMAI name=rethinkdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=rgnet-iad.anycast.censurfridns.dk
-/ip dns static add ttl=10m type=NXDOMAI name=rgnet-iad.anycast.uncensoreddns.org
-/ip dns static add ttl=10m type=NXDOMAI name=ric.openbld.net
-/ip dns static add ttl=10m type=NXDOMAI name=ricko.is
-/ip dns static add ttl=10m type=NXDOMAI name=rpz-public-resolver1.rrdns.pch.net
-/ip dns static add ttl=10m type=NXDOMAI name=ru-mow.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=rumpelsepp.org
-/ip dns static add ttl=10m type=NXDOMAI name=sa01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=safe.dns.yandex.ru
-/ip dns static add ttl=10m type=NXDOMAI name=safe.dot.dns.yandex.net
-/ip dns static add ttl=10m type=NXDOMAI name=safeservedns.com
-/ip dns static add ttl=10m type=NXDOMAI name=sandbox.opendns.com
-/ip dns static add ttl=10m type=NXDOMAI name=sbdns.co.in
-/ip dns static add ttl=10m type=NXDOMAI name=sby-doh.limotelu.org
-/ip dns static add ttl=10m type=NXDOMAI name=sdns.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=sdns22.gkonuralp.com
-/ip dns static add ttl=10m type=NXDOMAI name=secondary.dns.yandex.ru
-/ip dns static add ttl=10m type=NXDOMAI name=secondary.family.dns.yandex.ru
-/ip dns static add ttl=10m type=NXDOMAI name=secondary.safe.dns.yandex.ru
-/ip dns static add ttl=10m type=NXDOMAI name=secure-dns.dns-ga.de
-/ip dns static add ttl=10m type=NXDOMAI name=secure-dns.pleumkungz.com
-/ip dns static add ttl=10m type=NXDOMAI name=secure.anudeep.me
-/ip dns static add ttl=10m type=NXDOMAI name=secure.avastdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=secure.onedns.cc
-/ip dns static add ttl=10m type=NXDOMAI name=securenet.mhsystems.net
-/ip dns static add ttl=10m type=NXDOMAI name=security-filter-dns.cleanbrowsing.org
-/ip dns static add ttl=10m type=NXDOMAI name=security.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=sg-dns1.bancuh.com
-/ip dns static add ttl=10m type=NXDOMAI name=sg-sin.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=sg.teradns.org
-/ip dns static add ttl=10m type=NXDOMAI name=sg01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=sg1.dnswarden.com
-/ip dns static add ttl=10m type=NXDOMAI name=sg2.ooroot.com
-/ip dns static add ttl=10m type=NXDOMAI name=shalenkov.dev
-/ip dns static add ttl=10m type=NXDOMAI name=shield.afixer.app
-/ip dns static add ttl=10m type=NXDOMAI name=shield1.eranext.net
-/ip dns static add ttl=10m type=NXDOMAI name=sin01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=sink.nolo.ltd
-/ip dns static add ttl=10m type=NXDOMAI name=sitdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=sky.rethinkdns.com
-/ip dns static add ttl=10m type=NXDOMAI name=slc01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=sof01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=spacedns.org
-/ip dns static add ttl=10m type=NXDOMAI name=sriedmueadguard.casa
-/ip dns static add ttl=10m type=NXDOMAI name=steering.nextdns.io
-/ip dns static add ttl=10m type=NXDOMAI name=sto01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=stratus.bugz.fr
-/ip dns static add ttl=10m type=NXDOMAI name=sukidayo.eu.org
-/ip dns static add ttl=10m type=NXDOMAI name=sundalandia.pp.ua
-/ip dns static add ttl=10m type=NXDOMAI name=sunnygyl.com
-/ip dns static add ttl=10m type=NXDOMAI name=switch.ch
-/ip dns static add ttl=10m type=NXDOMAI name=syd.adfilter.net
-/ip dns static add ttl=10m type=NXDOMAI name=syd01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=takhtakh.domyah.net
-/ip dns static add ttl=10m type=NXDOMAI name=testaghome.meshkov.info
-/ip dns static add ttl=10m type=NXDOMAI name=testguard.meexx.de
-/ip dns static add ttl=10m type=NXDOMAI name=tienpham.id.vn
-/ip dns static add ttl=10m type=NXDOMAI name=tiger.dns.qwer.pw
-/ip dns static add ttl=10m type=NXDOMAI name=timmes.nl
-/ip dns static add ttl=10m type=NXDOMAI name=tj.jamesxue.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=tky-dns.bitdefender.net
-/ip dns static add ttl=10m type=NXDOMAI name=tll01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=tls-dns-u.odvr.dns-oarc.net
-/ip dns static add ttl=10m type=NXDOMAI name=tlz.asia
-/ip dns static add ttl=10m type=NXDOMAI name=tor.cloudflare-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=tor.vasi.li
-/ip dns static add ttl=10m type=NXDOMAI name=tpa01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=tpe01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=trf01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=truta.org
-/ip dns static add ttl=10m type=NXDOMAI name=ttag.dns.nomu.pw
-/ip dns static add ttl=10m type=NXDOMAI name=tuandns.duckdns.org
-/ip dns static add ttl=10m type=NXDOMAI name=tw2.ooroot.com
-/ip dns static add ttl=10m type=NXDOMAI name=tx.teradns.org
-/ip dns static add ttl=10m type=NXDOMAI name=tyo01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=typaza.com
-/ip dns static add ttl=10m type=NXDOMAI name=ueni.dyndns.org
-/ip dns static add ttl=10m type=NXDOMAI name=uk-lon.doh.sb
-/ip dns static add ttl=10m type=NXDOMAI name=uk.teradns.org
-/ip dns static add ttl=10m type=NXDOMAI name=uk01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=uncensored.any.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=uncensored.freedns.controld.com
-/ip dns static add ttl=10m type=NXDOMAI name=uncensored.lux1.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=uncensored.lv1.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=uncensored.ny1.dns.nixnet.xyz
-/ip dns static add ttl=10m type=NXDOMAI name=unfiltered.adguard-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=unicast.censurfridns.dk
-/ip dns static add ttl=10m type=NXDOMAI name=unicast.uncensoreddns.org
-/ip dns static add ttl=10m type=NXDOMAI name=uradoori.org
-/ip dns static add ttl=10m type=NXDOMAI name=urology.wiki
-/ip dns static add ttl=10m type=NXDOMAI name=us.doh.cloudveil.org
-/ip dns static add ttl=10m type=NXDOMAI name=us01.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=us02.dns4me.net
-/ip dns static add ttl=10m type=NXDOMAI name=us1.blissdns.net
-/ip dns static add ttl=10m type=NXDOMAI name=us1.dns.lavate.ch
-/ip dns static add ttl=10m type=NXDOMAI name=use-application-dns.net
-/ip dns static add ttl=10m type=NXDOMAI name=uw-dns.rubyfish.cn
-/ip dns static add ttl=10m type=NXDOMAI name=v.dnscrypt.uk
-/ip dns static add ttl=10m type=NXDOMAI name=v2.xx3210766.live
-/ip dns static add ttl=10m type=NXDOMAI name=vd.i81.ru
-/ip dns static add ttl=10m type=NXDOMAI name=vie01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=virga.pp.ua
-/ip dns static add ttl=10m type=NXDOMAI name=vm.mytm.cc
-/ip dns static add ttl=10m type=NXDOMAI name=vpn.technicule.info
-/ip dns static add ttl=10m type=NXDOMAI name=vpsus3.pzhg.me
-/ip dns static add ttl=10m type=NXDOMAI name=vtcuong.site
-/ip dns static add ttl=10m type=NXDOMAI name=wantaquddin.com
-/ip dns static add ttl=10m type=NXDOMAI name=waw01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=waw02.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=wdns.233py.com
-/ip dns static add ttl=10m type=NXDOMAI name=wikimedia-dns.org
-/ip dns static add ttl=10m type=NXDOMAI name=www.c-dns.com
-/ip dns static add ttl=10m type=NXDOMAI name=www.chungocoai.name.vn
-/ip dns static add ttl=10m type=NXDOMAI name=www.dnsadguard.co.uk
-/ip dns static add ttl=10m type=NXDOMAI name=www.inpssh.online
-/ip dns static add ttl=10m type=NXDOMAI name=www.jabber-germany.de
-/ip dns static add ttl=10m type=NXDOMAI name=www.masters-of-cloud.de
-/ip dns static add ttl=10m type=NXDOMAI name=www.maxfong.cc
-/ip dns static add ttl=10m type=NXDOMAI name=www.morbitzer.de
-/ip dns static add ttl=10m type=NXDOMAI name=www.muxyuji.ru
-/ip dns static add ttl=10m type=NXDOMAI name=www.pukanuragan.ru
-/ip dns static add ttl=10m type=NXDOMAI name=www.unasw.eu
-/ip dns static add ttl=10m type=NXDOMAI name=www.zburger.top
-/ip dns static add ttl=10m type=NXDOMAI name=wyx.cloud
-/ip dns static add ttl=10m type=NXDOMAI name=xenergy.cc
-/ip dns static add ttl=10m type=NXDOMAI name=xray.krnl.eu
-/ip dns static add ttl=10m type=NXDOMAI name=yarp.lefolgoc.net
-/ip dns static add ttl=10m type=NXDOMAI name=ychen.cf
-/ip dns static add ttl=10m type=NXDOMAI name=ychen.gq
-/ip dns static add ttl=10m type=NXDOMAI name=your-dns.run
-/ip dns static add ttl=10m type=NXDOMAI name=yovbak.com
-/ip dns static add ttl=10m type=NXDOMAI name=yul01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=yunyun.is.my.waifu.cz
-/ip dns static add ttl=10m type=NXDOMAI name=zal01.dnscry.pt
-/ip dns static add ttl=10m type=NXDOMAI name=zero.dns0.eu
-/ip dns static add ttl=10m type=NXDOMAI name=zougloub.eu
-/ip dns static add ttl=10m type=NXDOMAI name=zrh1-ns01.monzoon.net
-/ip dns static add ttl=10m type=NXDOMAI name=zxcvb.pp.ua
+/ip fi add remove [find list=DoH]
+/ip fi add add list=DoH address=1.dns.noridev.moe
+/ip fi add add list=DoH address=1a.ns.ozer.im
+/ip fi add add list=DoH address=1dot1dot1dot1.cloudflare-dns.com
+/ip fi add add list=DoH address=3dns.eu
+/ip fi add add list=DoH address=5g.o0o.re
+/ip fi add add list=DoH address=8888.google
+/ip fi add add list=DoH address=a.zpn.me
+/ip fi add add list=DoH address=abe01.dnscry.pt
+/ip fi add add list=DoH address=abel.waringer-atg.de
+/ip fi add add list=DoH address=ad.huyct.net
+/ip fi add add list=DoH address=ad.justincounts.com
+/ip fi add add list=DoH address=ad.tzockt.beer
+/ip fi add add list=DoH address=ad1.heronet.nl
+/ip fi add add list=DoH address=ada.openbld.net
+/ip fi add add list=DoH address=adb-home.xaoimoon.fr
+/ip fi add add list=DoH address=adb.aadityakushwaha.com
+/ip fi add add list=DoH address=adblock.any.dns.nixnet.xyz
+/ip fi add add list=DoH address=adblock.borjalopez.eu
+/ip fi add add list=DoH address=adblock.dns.mullvad.net
+/ip fi add add list=DoH address=adblock.doh.mullvad.net
+/ip fi add add list=DoH address=adblock.indianets.net
+/ip fi add add list=DoH address=adblock.leenit.kr
+/ip fi add add list=DoH address=adblock.lux1.dns.nixnet.xyz
+/ip fi add add list=DoH address=adblock.lv1.dns.nixnet.xyz
+/ip fi add add list=DoH address=adblock.mydns.network
+/ip fi add add list=DoH address=adblock.ny1.dns.nixnet.xyz
+/ip fi add add list=DoH address=adblockersite.com
+/ip fi add add list=DoH address=addns1.m-it.ro
+/ip fi add add list=DoH address=adfree.usableprivacy.net
+/ip fi add add list=DoH address=adfreedns.top
+/ip fi add add list=DoH address=adg.jnorton.us
+/ip fi add add list=DoH address=adg.rokh.biz
+/ip fi add add list=DoH address=adg.rueiliu.space
+/ip fi add add list=DoH address=adguard-dns.com
+/ip fi add add list=DoH address=adguard-ironhide.ultima-thule.ru
+/ip fi add add list=DoH address=adguard-kartoffel.zernico.de
+/ip fi add add list=DoH address=adguard.abd.ong
+/ip fi add add list=DoH address=adguard.avdkishore.dev
+/ip fi add add list=DoH address=adguard.beliefanx.cn
+/ip fi add add list=DoH address=adguard.bonis.de
+/ip fi add add list=DoH address=adguard.bonsirven.eu
+/ip fi add add list=DoH address=adguard.cloudmini.net
+/ip fi add add list=DoH address=adguard.dekonix.ru
+/ip fi add add list=DoH address=adguard.depieri.net
+/ip fi add add list=DoH address=adguard.ef67daisuki.club
+/ip fi add add list=DoH address=adguard.ender.fr
+/ip fi add add list=DoH address=adguard.gbrossi.com.br
+/ip fi add add list=DoH address=adguard.haneulo.com
+/ip fi add add list=DoH address=adguard.ihatemy.live
+/ip fi add add list=DoH address=adguard.jfchenier.ca
+/ip fi add add list=DoH address=adguard.kiboko.it
+/ip fi add add list=DoH address=adguard.konikoni428.com
+/ip fi add add list=DoH address=adguard.kss.ovh
+/ip fi add add list=DoH address=adguard.lege.despagne.net
+/ip fi add add list=DoH address=adguard.marto.si
+/ip fi add add list=DoH address=adguard.meddy94.de
+/ip fi add add list=DoH address=adguard.oms-ctr.ru
+/ip fi add add list=DoH address=adguard.onlyfriends.info
+/ip fi add add list=DoH address=adguard.piekacz.pl
+/ip fi add add list=DoH address=adguard.quydang.name.vn
+/ip fi add add list=DoH address=adguard.ruby.ci
+/ip fi add add list=DoH address=adguard.shoupperuser.com
+/ip fi add add list=DoH address=adguard.shutgaming.net
+/ip fi add add list=DoH address=adguard.shuting.idv.tw
+/ip fi add add list=DoH address=adguard.sparshbajaj.me
+/ip fi add add list=DoH address=adguard.sscw.win
+/ip fi add add list=DoH address=adguard.twotigers.xyz
+/ip fi add add list=DoH address=adguard.wirimij.nl
+/ip fi add add list=DoH address=adguard.zachitect.com
+/ip fi add add list=DoH address=adguard1.jsanagustin.net
+/ip fi add add list=DoH address=adguard1.leadmon.net
+/ip fi add add list=DoH address=adguardhome.atakorah.com
+/ip fi add add list=DoH address=adl.adfilter.net
+/ip fi add add list=DoH address=ads.hunga1k47.com
+/ip fi add add list=DoH address=adult-filter-dns.cleanbrowsing.org
+/ip fi add add list=DoH address=ag.ff0x.ca
+/ip fi add add list=DoH address=ag.hostme.co.il
+/ip fi add add list=DoH address=ag.marschi.de
+/ip fi add add list=DoH address=ag.ssrahul96.xyz
+/ip fi add add list=DoH address=agh-yz.russel053.com
+/ip fi add add list=DoH address=agh.fltn.us
+/ip fi add add list=DoH address=agh.printk.info
+/ip fi add add list=DoH address=agh.xinfeng16m.top
+/ip fi add add list=DoH address=ahadns.net
+/ip fi add add list=DoH address=all.dns.mullvad.net
+/ip fi add add list=DoH address=alleesph.online
+/ip fi add add list=DoH address=ams01.dnscry.pt
+/ip fi add add list=DoH address=ams02.dnscry.pt
+/ip fi add add list=DoH address=ant.dns.qwer.pw
+/ip fi add add list=DoH address=antivirus.bebasid.com
+/ip fi add add list=DoH address=anycast.censurfridns.dk
+/ip fi add add list=DoH address=anycast.dns.nextdns.io
+/ip fi add add list=DoH address=anycast.uncensoreddns.org
+/ip fi add add list=DoH address=aqua.is.my.waifu.cz
+/ip fi add add list=DoH address=arashi.eu.org
+/ip fi add add list=DoH address=area51.mywire.org
+/ip fi add add list=DoH address=armorrush.eu.org
+/ip fi add add list=DoH address=at.pzhg.me
+/ip fi add add list=DoH address=atl01.dnscry.pt
+/ip fi add add list=DoH address=au-syd.doh.sb
+/ip fi add add list=DoH address=au01.dns4me.net
+/ip fi add add list=DoH address=au02.dns4me.net
+/ip fi add add list=DoH address=awan.ftp.sh
+/ip fi add add list=DoH address=b-ii.com
+/ip fi add add list=DoH address=base.dns.mullvad.net
+/ip fi add add list=DoH address=basic.bravedns.com
+/ip fi add add list=DoH address=basic.rethinkdns.com
+/ip fi add add list=DoH address=bl.eq.md
+/ip fi add add list=DoH address=blackhole.myon.lu
+/ip fi add add list=DoH address=blitz-setup.ahadns.com
+/ip fi add add list=DoH address=blitz.ahadns.com
+/ip fi add add list=DoH address=block.abstergo.it
+/ip fi add add list=DoH address=blocker.thethorsens.org
+/ip fi add add list=DoH address=blockerads.multimediaconcept.fr
+/ip fi add add list=DoH address=blog.kimiblock.top
+/ip fi add add list=DoH address=bluemood.me
+/ip fi add add list=DoH address=bom01.dnscry.pt
+/ip fi add add list=DoH address=br.servers.legat.ml
+/ip fi add add list=DoH address=bravedns.com
+/ip fi add add list=DoH address=buc-m2.illmods.com
+/ip fi add add list=DoH address=c.cicitt.ch
+/ip fi add add list=DoH address=ca-yyc.doh.sb
+/ip fi add add list=DoH address=ca.doh.cloudveil.org
+/ip fi add add list=DoH address=ca01.dns4me.net
+/ip fi add add list=DoH address=ca02.dns4me.net
+/ip fi add add list=DoH address=callies-online.site
+/ip fi add add list=DoH address=catdns.org
+/ip fi add add list=DoH address=cdn.0ms.dev
+/ip fi add add list=DoH address=chandr1000.net
+/ip fi add add list=DoH address=chaos-system.de
+/ip fi add add list=DoH address=chrome.cloudflare-dns.com
+/ip fi add add list=DoH address=chromium.dns.nextdns.io
+/ip fi add add list=DoH address=clean.dnsforge.de
+/ip fi add add list=DoH address=cleanbrowsing.org
+/ip fi add add list=DoH address=clearweb.woodbridge.club
+/ip fi add add list=DoH address=clientdns3.softcom.net
+/ip fi add add list=DoH address=cloud.198.games
+/ip fi add add list=DoH address=cloud.samutz.com
+/ip fi add add list=DoH address=cloud.tezoi.com
+/ip fi add add list=DoH address=cloudflare-dns.com
+/ip fi add add list=DoH address=cloudns.bosco.ovh
+/ip fi add add list=DoH address=cluster-0.gac.edu
+/ip fi add add list=DoH address=cluster-1.gac.edu
+/ip fi add add list=DoH address=coe01.dnscry.pt
+/ip fi add add list=DoH address=common.dot.dns.yandex.net
+/ip fi add add list=DoH address=commons.host
+/ip fi add add list=DoH address=comss.one
+/ip fi add add list=DoH address=comss.ru
+/ip fi add add list=DoH address=console.carestyle.org
+/ip fi add add list=DoH address=crypto.sx
+/ip fi add add list=DoH address=cube.neubsi.at
+/ip fi add add list=DoH address=cubedns.com
+/ip fi add add list=DoH address=cvt01.dnscry.pt
+/ip fi add add list=DoH address=d.adguard-dns.com
+/ip fi add add list=DoH address=d.apemlegit.my.id
+/ip fi add add list=DoH address=d.toairs.com
+/ip fi add add list=DoH address=d2.shabi.icu
+/ip fi add add list=DoH address=dandelionsprout.asuscomm.com
+/ip fi add add list=DoH address=darkness.is.my.waifu.cz
+/ip fi add add list=DoH address=dart.kpsn.org
+/ip fi add add list=DoH address=darya.persiannit.net
+/ip fi add add list=DoH address=de-dus.doh.sb
+/ip fi add add list=DoH address=de-fra.doh.sb
+/ip fi add add list=DoH address=de.teradns.org
+/ip fi add add list=DoH address=deic-lgb.anycast.censurfridns.dk
+/ip fi add add list=DoH address=deic-lgb.anycast.uncensoreddns.org
+/ip fi add add list=DoH address=deic-ore.anycast.censurfridns.dk
+/ip fi add add list=DoH address=deic-ore.anycast.uncensoreddns.org
+/ip fi add add list=DoH address=dns-cybersec.nordthreatprotection.com
+/ip fi add add list=DoH address=dns-doh-no-safe-search.dnsforfamily.com
+/ip fi add add list=DoH address=dns-doh.dnsforfamily.com
+/ip fi add add list=DoH address=dns-dot.dnsforfamily.com
+/ip fi add add list=DoH address=dns-family.adguard.com
+/ip fi add add list=DoH address=dns-fr-psv1.cloudsides.com
+/ip fi add add list=DoH address=dns-free.link
+/ip fi add add list=DoH address=dns-malwaresec.nordthreatprotection.com
+/ip fi add add list=DoH address=dns-nosec.quad9.net
+/ip fi add add list=DoH address=dns-ovh.panszelescik.pl
+/ip fi add add list=DoH address=dns-privacy.puregeni.us
+/ip fi add add list=DoH address=dns-secondary.cloudnx.cloud
+/ip fi add add list=DoH address=dns-tls.bitwiseshift.net
+/ip fi add add list=DoH address=dns-unfiltered.adguard.com
+/ip fi add add list=DoH address=dns.0ooo.icu
+/ip fi add add list=DoH address=dns.0x55.net
+/ip fi add add list=DoH address=dns.23-4.cn
+/ip fi add add list=DoH address=dns.233py.com
+/ip fi add add list=DoH address=dns.240527.xyz
+/ip fi add add list=DoH address=dns.354688.xyz
+/ip fi add add list=DoH address=dns.4-the.win
+/ip fi add add list=DoH address=dns.52306.org
+/ip fi add add list=DoH address=dns.7sec.com.br
+/ip fi add add list=DoH address=dns.7vpn.com
+/ip fi add add list=DoH address=dns.886886886.xyz
+/ip fi add add list=DoH address=dns.888654.xyz
+/ip fi add add list=DoH address=dns.9999.sg
+/ip fi add add list=DoH address=dns.a47.me
+/ip fi add add list=DoH address=dns.aa.net.uk
+/ip fi add add list=DoH address=dns.abdullahabas.de
+/ip fi add add list=DoH address=dns.adguard-dns.com
+/ip fi add add list=DoH address=dns.adguard.com
+/ip fi add add list=DoH address=dns.adrianlam.com
+/ip fi add add list=DoH address=dns.aerro.in
+/ip fi add add list=DoH address=dns.albony.xyz
+/ip fi add add list=DoH address=dns.alidns.com
+/ip fi add add list=DoH address=dns.alloxr.info
+/ip fi add add list=DoH address=dns.almir1904.eu
+/ip fi add add list=DoH address=dns.alvosec.com
+/ip fi add add list=DoH address=dns.andrewnw.xyz
+/ip fi add add list=DoH address=dns.api.globus.org
+/ip fi add add list=DoH address=dns.api.integration.globuscs.info
+/ip fi add add list=DoH address=dns.api.preview.globus.org
+/ip fi add add list=DoH address=dns.api.rackspacecloud.com
+/ip fi add add list=DoH address=dns.api.sandbox.globuscs.info
+/ip fi add add list=DoH address=dns.api.staging.globuscs.info
+/ip fi add add list=DoH address=dns.api.test.globuscs.info
+/ip fi add add list=DoH address=dns.apigw.online
+/ip fi add add list=DoH address=dns.aquilenet.fr
+/ip fi add add list=DoH address=dns.ares-taiwan.com
+/ip fi add add list=DoH address=dns.artikel10.org
+/ip fi add add list=DoH address=dns.asterimoon.com
+/ip fi add add list=DoH address=dns.azsopro.net
+/ip fi add add list=DoH address=dns.b33.space
+/ip fi add add list=DoH address=dns.b612.me
+/ip fi add add list=DoH address=dns.baishiyuan.cn
+/ip fi add add list=DoH address=dns.bebasid.com
+/ip fi add add list=DoH address=dns.belnet.be
+/ip fi add add list=DoH address=dns.benpro.fr
+/ip fi add add list=DoH address=dns.beta.gandi.net
+/ip fi add add list=DoH address=dns.bitdefender.net
+/ip fi add add list=DoH address=dns.bitservices.io
+/ip fi add add list=DoH address=dns.blokada.org
+/ip fi add add list=DoH address=dns.bobstrecansky.com
+/ip fi add add list=DoH address=dns.bofh.in
+/ip fi add add list=DoH address=dns.brahma.world
+/ip fi add add list=DoH address=dns.bw.i81.ru
+/ip fi add add list=DoH address=dns.carson-family.com
+/ip fi add add list=DoH address=dns.carter.me
+/ip fi add add list=DoH address=dns.ceai.com.tw
+/ip fi add add list=DoH address=dns.chadeyron.fr
+/ip fi add add list=DoH address=dns.charraud.eu
+/ip fi add add list=DoH address=dns.chenu.ch
+/ip fi add add list=DoH address=dns.chromeina.top
+/ip fi add add list=DoH address=dns.circl.lu
+/ip fi add add list=DoH address=dns.clanless.ovh
+/ip fi add add list=DoH address=dns.clanto.cloud
+/ip fi add add list=DoH address=dns.cloud88.com.au
+/ip fi add add list=DoH address=dns.cloudfiction.eu
+/ip fi add add list=DoH address=dns.cloudflare.com
+/ip fi add add list=DoH address=dns.cloudtrust.solutions
+/ip fi add add list=DoH address=dns.cmrg.net
+/ip fi add add list=DoH address=dns.colorfreedom.org
+/ip fi add add list=DoH address=dns.comeonjames.club
+/ip fi add add list=DoH address=dns.comss.one
+/ip fi add add list=DoH address=dns.connect.fail
+/ip fi add add list=DoH address=dns.cryptomize.com
+/ip fi add add list=DoH address=dns.cwlys.com
+/ip fi add add list=DoH address=dns.cynthialabs.net
+/ip fi add add list=DoH address=dns.d4d.moe
+/ip fi add add list=DoH address=dns.d94.xyz
+/ip fi add add list=DoH address=dns.d96.info
+/ip fi add add list=DoH address=dns.daemon.za.net
+/ip fi add add list=DoH address=dns.david888.com
+/ip fi add add list=DoH address=dns.daw.dev
+/ip fi add add list=DoH address=dns.decloudus.com
+/ip fi add add list=DoH address=dns.dekedin.me
+/ip fi add add list=DoH address=dns.dev-umbrellagov.com
+/ip fi add add list=DoH address=dns.dgea.fr
+/ip fi add add list=DoH address=dns.digitale-gesellschaft.ch
+/ip fi add add list=DoH address=dns.digitalsize.net
+/ip fi add add list=DoH address=dns.dnshome.de
+/ip fi add add list=DoH address=dns.dnssilo.top
+/ip fi add add list=DoH address=dns.dnswarden.com
+/ip fi add add list=DoH address=dns.doh.best
+/ip fi add add list=DoH address=dns.dotnet.win
+/ip fi add add list=DoH address=dns.dyn1.de
+/ip fi add add list=DoH address=dns.east.comss.one
+/ip fi add add list=DoH address=dns.eddi.net
+/ip fi add add list=DoH address=dns.edison42.dev
+/ip fi add add list=DoH address=dns.elemental.software
+/ip fi add add list=DoH address=dns.emiliyan.com
+/ip fi add add list=DoH address=dns.enzonix.com
+/ip fi add add list=DoH address=dns.eu-frankfurt-1.oraclecloud.com
+/ip fi add add list=DoH address=dns.expert
+/ip fi add add list=DoH address=dns.extrawdw.net
+/ip fi add add list=DoH address=dns.f97.xyz
+/ip fi add add list=DoH address=dns.fancyorg.at
+/ip fi add add list=DoH address=dns.filipccz.eu
+/ip fi add add list=DoH address=dns.flatuslifir.is
+/ip fi add add list=DoH address=dns.flwagners.com
+/ip fi add add list=DoH address=dns.flymc.cc
+/ip fi add add list=DoH address=dns.freyja.pw
+/ip fi add add list=DoH address=dns.froth.zone
+/ip fi add add list=DoH address=dns.fullaccesstointernet.jp.eu.org
+/ip fi add add list=DoH address=dns.furrydns.de
+/ip fi add add list=DoH address=dns.futuredns.me
+/ip fi add add list=DoH address=dns.gamban.com
+/ip fi add add list=DoH address=dns.gi.co.id
+/ip fi add add list=DoH address=dns.ginovs.nl
+/ip fi add add list=DoH address=dns.glorydns.com
+/ip fi add add list=DoH address=dns.gnb09.id
+/ip fi add add list=DoH address=dns.goldplate.org
+/ip fi add add list=DoH address=dns.google
+/ip fi add add list=DoH address=dns.google.com
+/ip fi add add list=DoH address=dns.grqu.de
+/ip fi add add list=DoH address=dns.guard.io
+/ip fi add add list=DoH address=dns.ha-dvin.pp.ua
+/ip fi add add list=DoH address=dns.hahnjo.de
+/ip fi add add list=DoH address=dns.hanahira.dev
+/ip fi add add list=DoH address=dns.hanmey.de
+/ip fi add add list=DoH address=dns.henek.ovh
+/ip fi add add list=DoH address=dns.hinet.net
+/ip fi add add list=DoH address=dns.horcrux.vip
+/ip fi add add list=DoH address=dns.hostux.net
+/ip fi add add list=DoH address=dns.hotta.page
+/ip fi add add list=DoH address=dns.hugo0.moe
+/ip fi add add list=DoH address=dns.hujiayucc.cn
+/ip fi add add list=DoH address=dns.huseynov.work
+/ip fi add add list=DoH address=dns.huyhoangit.net
+/ip fi add add list=DoH address=dns.hypercute.eu
+/ip fi add add list=DoH address=dns.iamninja.ru
+/ip fi add add list=DoH address=dns.ian.rocks
+/ip fi add add list=DoH address=dns.ihaveacloud.com
+/ip fi add add list=DoH address=dns.ikataruto.com
+/ip fi add add list=DoH address=dns.iki.my.id
+/ip fi add add list=DoH address=dns.imaicool.com
+/ip fi add add list=DoH address=dns.indust.me
+/ip fi add add list=DoH address=dns.indybanipal.com
+/ip fi add add list=DoH address=dns.infosec.xyz
+/ip fi add add list=DoH address=dns.interhub.cc
+/ip fi add add list=DoH address=dns.internal.hosmatic.com
+/ip fi add add list=DoH address=dns.ipv6dns.com
+/ip fi add add list=DoH address=dns.islandnet.com
+/ip fi add add list=DoH address=dns.janl.eu
+/ip fi add add list=DoH address=dns.jinwoo.dev
+/ip fi add add list=DoH address=dns.joaofidelix.com.br
+/ip fi add add list=DoH address=dns.joey01245.nl
+/ip fi add add list=DoH address=dns.jstockley.com
+/ip fi add add list=DoH address=dns.jundev.org
+/ip fi add add list=DoH address=dns.justinnetworkingsolutions.com
+/ip fi add add list=DoH address=dns.k3nny.fr
+/ip fi add add list=DoH address=dns.kamilszczepanski.com
+/ip fi add add list=DoH address=dns.karl.one
+/ip fi add add list=DoH address=dns.kawa.tf
+/ip fi add add list=DoH address=dns.keke125.com
+/ip fi add add list=DoH address=dns.kerekes.xyz
+/ip fi add add list=DoH address=dns.kernel-error.de
+/ip fi add add list=DoH address=dns.kescher.at
+/ip fi add add list=DoH address=dns.keweon.center
+/ip fi add add list=DoH address=dns.koala.us.to
+/ip fi add add list=DoH address=dns.korzhyk.pp.ua
+/ip fi add add list=DoH address=dns.kosan.moe
+/ip fi add add list=DoH address=dns.kugoapps.com
+/ip fi add add list=DoH address=dns.kukal.cz
+/ip fi add add list=DoH address=dns.kusoneko.moe
+/ip fi add add list=DoH address=dns.l337.site
+/ip fi add add list=DoH address=dns.labnekotest.site
+/ip fi add add list=DoH address=dns.lars-lehmann.net
+/ip fi add add list=DoH address=dns.lashes-brow.ru
+/ip fi add add list=DoH address=dns.levonet.sk
+/ip fi add add list=DoH address=dns.lgprk.com
+/ip fi add add list=DoH address=dns.linkr.ninja
+/ip fi add add list=DoH address=dns.lista.my.id
+/ip fi add add list=DoH address=dns.lobbygod.com
+/ip fi add add list=DoH address=dns.lvolland.fr
+/ip fi add add list=DoH address=dns.mandre.dev
+/ip fi add add list=DoH address=dns.maolaohei.xyz
+/ip fi add add list=DoH address=dns.mathewakhil.online
+/ip fi add add list=DoH address=dns.maybe.icu
+/ip fi add add list=DoH address=dns.meeo.win
+/ip fi add add list=DoH address=dns.melalandia.tk
+/ip fi add add list=DoH address=dns.mestdag.fr
+/ip fi add add list=DoH address=dns.mihanentalpo.me
+/ip fi add add list=DoH address=dns.mikeliu.org
+/ip fi add add list=DoH address=dns.mikrotikrumahan.my.id
+/ip fi add add list=DoH address=dns.milkpie.one
+/ip fi add add list=DoH address=dns.mo0on15.com
+/ip fi add add list=DoH address=dns.molinero.dev
+/ip fi add add list=DoH address=dns.moog.sh
+/ip fi add add list=DoH address=dns.moonssif.com
+/ip fi add add list=DoH address=dns.moulticast.net
+/ip fi add add list=DoH address=dns.msxnet.ru
+/ip fi add add list=DoH address=dns.mullvad.net
+/ip fi add add list=DoH address=dns.murgi.de
+/ip fi add add list=DoH address=dns.muxinghe.cn
+/ip fi add add list=DoH address=dns.mzrme.cn
+/ip fi add add list=DoH address=dns.narl.app
+/ip fi add add list=DoH address=dns.nas-server.ru
+/ip fi add add list=DoH address=dns.neilzone.co.uk
+/ip fi add add list=DoH address=dns.neubsi.at
+/ip fi add add list=DoH address=dns.nextdns.io
+/ip fi add add list=DoH address=dns.nhtsky.com
+/ip fi add add list=DoH address=dns.ningkelle.id
+/ip fi add add list=DoH address=dns.njal.la
+/ip fi add add list=DoH address=dns.norvig.dk
+/ip fi add add list=DoH address=dns.novali.date
+/ip fi add add list=DoH address=dns.novg.net
+/ip fi add add list=DoH address=dns.npe.bz
+/ip fi add add list=DoH address=dns.npsolution.it
+/ip fi add add list=DoH address=dns.nullgate.net
+/ip fi add add list=DoH address=dns.ofdoom.net
+/ip fi add add list=DoH address=dns.oliviertv.co.za
+/ip fi add add list=DoH address=dns.opendns.com
+/ip fi add add list=DoH address=dns.oszx.co
+/ip fi add add list=DoH address=dns.ours.luxe
+/ip fi add add list=DoH address=dns.ovpn.bond
+/ip fi add add list=DoH address=dns.paesa.es
+/ip fi add add list=DoH address=dns.panszelescik.pl
+/ip fi add add list=DoH address=dns.pccoach.nl
+/ip fi add add list=DoH address=dns.pernika.net
+/ip fi add add list=DoH address=dns.pesaventofilippo.com
+/ip fi add add list=DoH address=dns.phillipjberry.net
+/ip fi add add list=DoH address=dns.pnh.my.id
+/ip fi add add list=DoH address=dns.porteii.com
+/ip fi add add list=DoH address=dns.pragmasec.nl
+/ip fi add add list=DoH address=dns.privado.ovh
+/ip fi add add list=DoH address=dns.pub
+/ip fi add add list=DoH address=dns.pumpkinvrar.com
+/ip fi add add list=DoH address=dns.quad9.net
+/ip fi add add list=DoH address=dns.rafn.is
+/ip fi add add list=DoH address=dns.rayanbab.com
+/ip fi add add list=DoH address=dns.rbn.gr
+/ip fi add add list=DoH address=dns.reckoningslug.name
+/ip fi add add list=DoH address=dns.repinger.my.id
+/ip fi add add list=DoH address=dns.retakecs.com
+/ip fi add add list=DoH address=dns.rin.sh
+/ip fi add add list=DoH address=dns.ronc.ru
+/ip fi add add list=DoH address=dns.rootlab.top
+/ip fi add add list=DoH address=dns.rotunneling.net
+/ip fi add add list=DoH address=dns.rubyfish.cn
+/ip fi add add list=DoH address=dns.sarak.as
+/ip fi add add list=DoH address=dns.sarilouis.com
+/ip fi add add list=DoH address=dns.sb
+/ip fi add add list=DoH address=dns.scapetical.com
+/ip fi add add list=DoH address=dns.scarx.net
+/ip fi add add list=DoH address=dns.schlagheck.berlin
+/ip fi add add list=DoH address=dns.scuola.org
+/ip fi add add list=DoH address=dns.seiffert.me
+/ip fi add add list=DoH address=dns.sellan.fr
+/ip fi add add list=DoH address=dns.sev.monster
+/ip fi add add list=DoH address=dns.shecan.ir
+/ip fi add add list=DoH address=dns.sheggi.ch
+/ip fi add add list=DoH address=dns.shimul.me
+/ip fi add add list=DoH address=dns.silen.org
+/ip fi add add list=DoH address=dns.silentlybren.com
+/ip fi add add list=DoH address=dns.simplylinux.ch
+/ip fi add add list=DoH address=dns.siry.de
+/ip fi add add list=DoH address=dns.sitdns.com
+/ip fi add add list=DoH address=dns.skrep.eu
+/ip fi add add list=DoH address=dns.skrep.in
+/ip fi add add list=DoH address=dns.slinkyman.net
+/ip fi add add list=DoH address=dns.smartguard.io
+/ip fi add add list=DoH address=dns.spil.co.id
+/ip fi add add list=DoH address=dns.spirio.fr
+/ip fi add add list=DoH address=dns.sstomp.nl
+/ip fi add add list=DoH address=dns.startupstack.tech
+/ip fi add add list=DoH address=dns.stevenz.net
+/ip fi add add list=DoH address=dns.strassmair.org
+/ip fi add add list=DoH address=dns.superstefan.win
+/ip fi add add list=DoH address=dns.svoi.dev
+/ip fi add add list=DoH address=dns.swin.pro
+/ip fi add add list=DoH address=dns.switch.ch
+/ip fi add add list=DoH address=dns.syaifullah.com
+/ip fi add add list=DoH address=dns.t53.de
+/ip fi add add list=DoH address=dns.technostriker.com
+/ip fi add add list=DoH address=dns.telekom.de
+/ip fi add add list=DoH address=dns.tesem.dog
+/ip fi add add list=DoH address=dns.thebuckners.org
+/ip fi add add list=DoH address=dns.thegoodsource.net
+/ip fi add add list=DoH address=dns.theres.one
+/ip fi add add list=DoH address=dns.therifleman.name
+/ip fi add add list=DoH address=dns.tls-data.de
+/ip fi add add list=DoH address=dns.tracker.ink
+/ip fi add add list=DoH address=dns.trust404.win
+/ip fi add add list=DoH address=dns.tryk.app
+/ip fi add add list=DoH address=dns.tuna.tsinghua.edu.cn
+/ip fi add add list=DoH address=dns.twnic.tw
+/ip fi add add list=DoH address=dns.txq.life
+/ip fi add add list=DoH address=dns.uk-london-1.oraclecloud.com
+/ip fi add add list=DoH address=dns.umbrella.com
+/ip fi add add list=DoH address=dns.unerror.network
+/ip fi add add list=DoH address=dns.unx.io
+/ip fi add add list=DoH address=dns.uplenk.com
+/ip fi add add list=DoH address=dns.us-ashburn-1.oraclecloud.com
+/ip fi add add list=DoH address=dns.us-phoenix-1.oraclecloud.com
+/ip fi add add list=DoH address=dns.vinnyp.xyz
+/ip fi add add list=DoH address=dns.vinokurov.tk
+/ip fi add add list=DoH address=dns.vishalk.com
+/ip fi add add list=DoH address=dns.vmath.my.id
+/ip fi add add list=DoH address=dns.wahr.top
+/ip fi add add list=DoH address=dns.wakgood.net
+/ip fi add add list=DoH address=dns.wang.art
+/ip fi add add list=DoH address=dns.wargan.io
+/ip fi add add list=DoH address=dns.warma.me
+/ip fi add add list=DoH address=dns.warpnine.de
+/ip fi add add list=DoH address=dns.watch
+/ip fi add add list=DoH address=dns.weixin.qq.com.cn
+/ip fi add add list=DoH address=dns.xwdmw.xyz
+/ip fi add add list=DoH address=dns.yameenassotally.com
+/ip fi add add list=DoH address=dns.yandex.ru
+/ip fi add add list=DoH address=dns.yatima.tv
+/ip fi add add list=DoH address=dns.youni.win
+/ip fi add add list=DoH address=dns.zfsystem.tech
+/ip fi add add list=DoH address=dns.zzuhacker.cn
+/ip fi add add list=DoH address=dns0.eu
+/ip fi add add list=DoH address=dns01.flm9.net
+/ip fi add add list=DoH address=dns1.au.newpangea.de
+/ip fi add add list=DoH address=dns1.cl.newpangea.de
+/ip fi add add list=DoH address=dns1.conne.net
+/ip fi add add list=DoH address=dns1.digitale-gesellschaft.ch
+/ip fi add add list=DoH address=dns1.dnscrypt.ca
+/ip fi add add list=DoH address=dns1.in-berlin.de
+/ip fi add add list=DoH address=dns1.in.newpangea.de
+/ip fi add add list=DoH address=dns1.irumatech.com
+/ip fi add add list=DoH address=dns1.klcd.eu
+/ip fi add add list=DoH address=dns1.lothuscorp.com.br
+/ip fi add add list=DoH address=dns1.nextdns.io
+/ip fi add add list=DoH address=dns1.nielsdb.be
+/ip fi add add list=DoH address=dns1.nordvpn.com
+/ip fi add add list=DoH address=dns1.pietjacobs.be
+/ip fi add add list=DoH address=dns1.ryan-palmer.com
+/ip fi add add list=DoH address=dns1.sg.newpangea.de
+/ip fi add add list=DoH address=dns1.techeasy.org
+/ip fi add add list=DoH address=dns1.us.newpangea.de
+/ip fi add add list=DoH address=dns10.quad9.net
+/ip fi add add list=DoH address=dns11.quad9.net
+/ip fi add add list=DoH address=dns12.quad9.net
+/ip fi add add list=DoH address=dns13.quad9.net
+/ip fi add add list=DoH address=dns2.cbio.top
+/ip fi add add list=DoH address=dns2.digitale-gesellschaft.ch
+/ip fi add add list=DoH address=dns2.guidocioni.it
+/ip fi add add list=DoH address=dns2.klcd.eu
+/ip fi add add list=DoH address=dns2.linzefeng.top
+/ip fi add add list=DoH address=dns2.nextdns.io
+/ip fi add add list=DoH address=dns2.nordvpn.com
+/ip fi add add list=DoH address=dns2.saferbfc.org
+/ip fi add add list=DoH address=dns4.imkvq.com
+/ip fi add add list=DoH address=dns4me.net
+/ip fi add add list=DoH address=dns64.cloudflare-dns.com
+/ip fi add add list=DoH address=dns64.dns.google
+/ip fi add add list=DoH address=dns8.org
+/ip fi add add list=DoH address=dns9.quad9.net
+/ip fi add add list=DoH address=dnscache.e-utp.net
+/ip fi add add list=DoH address=dnsforfamily.com
+/ip fi add add list=DoH address=dnsforge.de
+/ip fi add add list=DoH address=dnslow.me
+/ip fi add add list=DoH address=dnsnl-noads.alekberg.net
+/ip fi add add list=DoH address=dnsnl.alekberg.net
+/ip fi add add list=DoH address=dnsotls.lab.nic.cl
+/ip fi add add list=DoH address=dnsovertls.sinodun.com
+/ip fi add add list=DoH address=dnsovertls1.sinodun.com
+/ip fi add add list=DoH address=dnsovertls2.sinodun.com
+/ip fi add add list=DoH address=dnsovertls3.sinodun.com
+/ip fi add add list=DoH address=dnspub.restena.lu
+/ip fi add add list=DoH address=dnsse-noads.alekberg.net
+/ip fi add add list=DoH address=dnsse.alekberg.net
+/ip fi add add list=DoH address=dnstls.mobik.com
+/ip fi add add list=DoH address=dnsvps.familiamv.net
+/ip fi add add list=DoH address=dnswebvsn.com
+/ip fi add add list=DoH address=do.dnscrypt.uk
+/ip fi add add list=DoH address=do.shimul.me
+/ip fi add add list=DoH address=dog.dns.qwer.pw
+/ip fi add add list=DoH address=doh-01.spectrum.com
+/ip fi add add list=DoH address=doh-02.spectrum.com
+/ip fi add add list=DoH address=doh-2.seby.io
+/ip fi add add list=DoH address=doh-ca.naftalie.net
+/ip fi add add list=DoH address=doh-ch.blahdns.com
+/ip fi add add list=DoH address=doh-de.blahdns.com
+/ip fi add add list=DoH address=doh-fi.blahdns.com
+/ip fi add add list=DoH address=doh-ipv6.crypto.sx
+/ip fi add add list=DoH address=doh-jp.blahdns.com
+/ip fi add add list=DoH address=doh-primary-pool.detoxifypornblocker.com
+/ip fi add add list=DoH address=doh-primary-pool.goodbyegambling.com
+/ip fi add add list=DoH address=doh-sg.blahdns.com
+/ip fi add add list=DoH address=doh.233py.com
+/ip fi add add list=DoH address=doh.30x.me
+/ip fi add add list=DoH address=doh.360.cn
+/ip fi add add list=DoH address=doh.42l.fr
+/ip fi add add list=DoH address=doh.aaaab3n.moe
+/ip fi add add list=DoH address=doh.abraservice.xyz
+/ip fi add add list=DoH address=doh.apad.pro
+/ip fi add add list=DoH address=doh.applied-privacy.net
+/ip fi add add list=DoH address=doh.appliedprivacy.net
+/ip fi add add list=DoH address=doh.archuser.org
+/ip fi add add list=DoH address=doh.asia.dnswarden.com
+/ip fi add add list=DoH address=doh.azoris.ovh
+/ip fi add add list=DoH address=doh.beauty
+/ip fi add add list=DoH address=doh.boje8.me
+/ip fi add add list=DoH address=doh.bortzmeyer.fr
+/ip fi add add list=DoH address=doh.bt.com
+/ip fi add add list=DoH address=doh.buzz
+/ip fi add add list=DoH address=doh.captnemo.in
+/ip fi add add list=DoH address=doh.ccb-net.it
+/ip fi add add list=DoH address=doh.centraleu.pi-dns.com
+/ip fi add add list=DoH address=doh.cleanbrowsing.org
+/ip fi add add list=DoH address=doh.cnetwork.cloud
+/ip fi add add list=DoH address=doh.cox.net
+/ip fi add add list=DoH address=doh.crypto.sx
+/ip fi add add list=DoH address=doh.datacore.ch
+/ip fi add add list=DoH address=doh.datahata.by
+/ip fi add add list=DoH address=doh.defaultroutes.de
+/ip fi add add list=DoH address=doh.disconnect.app
+/ip fi add add list=DoH address=doh.dns-ga.de
+/ip fi add add list=DoH address=doh.dns.apple.com
+/ip fi add add list=DoH address=doh.dns.apple.com.v.aaplimg.com
+/ip fi add add list=DoH address=doh.dns.sb
+/ip fi add add list=DoH address=doh.dns1.lonet.org
+/ip fi add add list=DoH address=doh.dns4all.eu
+/ip fi add add list=DoH address=doh.dnscrypt.uk
+/ip fi add add list=DoH address=doh.dscloud.me
+/ip fi add add list=DoH address=doh.eastas.pi-dns.com
+/ip fi add add list=DoH address=doh.eastau.pi-dns.com
+/ip fi add add list=DoH address=doh.eastus.pi-dns.com
+/ip fi add add list=DoH address=doh.eu.dnswarden.com
+/ip fi add add list=DoH address=doh.familyshield.opendns.com
+/ip fi add add list=DoH address=doh.ffmuc.net
+/ip fi add add list=DoH address=doh.funil.de
+/ip fi add add list=DoH address=doh.funtopia.tv
+/ip fi add add list=DoH address=doh.futa.gg
+/ip fi add add list=DoH address=doh.gcp.pathofgrace.com
+/ip fi add add list=DoH address=doh.hottis.de
+/ip fi add add list=DoH address=doh.ibr.cs.tu-bs.de
+/ip fi add add list=DoH address=doh.infotek.net.id
+/ip fi add add list=DoH address=doh.infracell.net
+/ip fi add add list=DoH address=doh.iucc.ac.il
+/ip fi add add list=DoH address=doh.jeroenhd.nl
+/ip fi add add list=DoH address=doh.kekew.info
+/ip fi add add list=DoH address=doh.killtw.im
+/ip fi add add list=DoH address=doh.kooman.org
+/ip fi add add list=DoH address=doh.la.ahadns.net
+/ip fi add add list=DoH address=doh.lacontrevoie.fr
+/ip fi add add list=DoH address=doh.li
+/ip fi add add list=DoH address=doh.libredns.gr
+/ip fi add add list=DoH address=doh.luigi.nexific.it
+/ip fi add add list=DoH address=doh.lv
+/ip fi add add list=DoH address=doh.maskab.com
+/ip fi add add list=DoH address=doh.max.net.id
+/ip fi add add list=DoH address=doh.micronets.in
+/ip fi add add list=DoH address=doh.mmmalia.com
+/ip fi add add list=DoH address=doh.morizt.id
+/ip fi add add list=DoH address=doh.mullvad.net
+/ip fi add add list=DoH address=doh.neowutran.ovh
+/ip fi add add list=DoH address=doh.nic.lv
+/ip fi add add list=DoH address=doh.niyawe.de
+/ip fi add add list=DoH address=doh.nl.ahadns.net
+/ip fi add add list=DoH address=doh.northeu.pi-dns.com
+/ip fi add add list=DoH address=doh.ntu.ssooss.win
+/ip fi add add list=DoH address=doh.onedns.net
+/ip fi add add list=DoH address=doh.opendns.com
+/ip fi add add list=DoH address=doh.phdns1.lonet.org
+/ip fi add add list=DoH address=doh.phdns2.lonet.org
+/ip fi add add list=DoH address=doh.phdns3.lonet.org
+/ip fi add add list=DoH address=doh.phdns4.lonet.org
+/ip fi add add list=DoH address=doh.phdns5.lonet.org
+/ip fi add add list=DoH address=doh.port53.dk
+/ip fi add add list=DoH address=doh.powerdns.org
+/ip fi add add list=DoH address=doh.pub
+/ip fi add add list=DoH address=doh.pyry.me
+/ip fi add add list=DoH address=doh.qis.io
+/ip fi add add list=DoH address=doh.quickline.ch
+/ip fi add add list=DoH address=doh.rezhajul.io
+/ip fi add add list=DoH address=doh.runsel.id
+/ip fi add add list=DoH address=doh.safesurfer.io
+/ip fi add add list=DoH address=doh.sandbox.opendns.com
+/ip fi add add list=DoH address=doh.sb
+/ip fi add add list=DoH address=doh.seby.io
+/ip fi add add list=DoH address=doh.sidnlabs.nl
+/ip fi add add list=DoH address=doh.syshero.org
+/ip fi add add list=DoH address=doh.technochat.in
+/ip fi add add list=DoH address=doh.tiar.app
+/ip fi add add list=DoH address=doh.tiarap.org
+/ip fi add add list=DoH address=doh.totoro.pub
+/ip fi add add list=DoH address=doh.umbrella.com
+/ip fi add add list=DoH address=doh.us.dnswarden.com
+/ip fi add add list=DoH address=doh.valscosmos.com
+/ip fi add add list=DoH address=doh.viatech.com.tw
+/ip fi add add list=DoH address=doh.westus.pi-dns.com
+/ip fi add add list=DoH address=doh.wewitro.net
+/ip fi add add list=DoH address=doh.xcom.pro
+/ip fi add add list=DoH address=doh.xfinity.com
+/ip fi add add list=DoH address=doh.xyz
+/ip fi add add list=DoH address=doh.zephyrus.id
+/ip fi add add list=DoH address=doh003.280blocker.net
+/ip fi add add list=DoH address=doh1.b-cdn.net
+/ip fi add add list=DoH address=doh1.blahdns.com
+/ip fi add add list=DoH address=doh2.b-cdn.net
+/ip fi add add list=DoH address=doh2.blahdns.com
+/ip fi add add list=DoH address=doh2.gslb2.xfinity.com
+/ip fi add add list=DoH address=dohdot.coxlab.net
+/ip fi add add list=DoH address=dohtrial.att.net
+/ip fi add add list=DoH address=dot-ch.blahdns.com
+/ip fi add add list=DoH address=dot-de.blahdns.com
+/ip fi add add list=DoH address=dot-fi.blahdns.com
+/ip fi add add list=DoH address=dot-jp.blahdns.com
+/ip fi add add list=DoH address=dot-sg.blahdns.com
+/ip fi add add list=DoH address=dot.360.cn
+/ip fi add add list=DoH address=dot.centraleu.pi-dns.com
+/ip fi add add list=DoH address=dot.cox.net
+/ip fi add add list=DoH address=dot.eastas.pi-dns.com
+/ip fi add add list=DoH address=dot.eastau.pi-dns.com
+/ip fi add add list=DoH address=dot.eastus.pi-dns.com
+/ip fi add add list=DoH address=dot.ffmuc.net
+/ip fi add add list=DoH address=dot.la.ahadns.net
+/ip fi add add list=DoH address=dot.libredns.gr
+/ip fi add add list=DoH address=dot.libredns.gr.com
+/ip fi add add list=DoH address=dot.nl.ahadns.net
+/ip fi add add list=DoH address=dot.northeu.pi-dns.com
+/ip fi add add list=DoH address=dot.occ.top
+/ip fi add add list=DoH address=dot.pub
+/ip fi add add list=DoH address=dot.quickline.ch
+/ip fi add add list=DoH address=dot.seby.io
+/ip fi add add list=DoH address=dot.tiar.app
+/ip fi add add list=DoH address=dot.tooli.ca
+/ip fi add add list=DoH address=dot.westus.pi-dns.com
+/ip fi add add list=DoH address=dot.xfinity.com
+/ip fi add add list=DoH address=dot1.applied-privacy.net
+/ip fi add add list=DoH address=dot1.appliedprivacy.net
+/ip fi add add list=DoH address=dotdns.cryptroute.com
+/ip fi add add list=DoH address=doth.huque.com
+/ip fi add add list=DoH address=drs.rustsword.com
+/ip fi add add list=DoH address=dtw01.dnscry.pt
+/ip fi add add list=DoH address=dub01.dnscry.pt
+/ip fi add add list=DoH address=dukun.de
+/ip fi add add list=DoH address=dus01.dnscry.pt
+/ip fi add add list=DoH address=ea-dns.rubyfish.cn
+/ip fi add add list=DoH address=easyhandshake.com
+/ip fi add add list=DoH address=echoe1yidzu4ioo5.myfritz.net
+/ip fi add add list=DoH address=edgy-dns.com
+/ip fi add add list=DoH address=edns.233py.com
+/ip fi add add list=DoH address=ee-tll.doh.sb
+/ip fi add add list=DoH address=emby.rasp.tv
+/ip fi add add list=DoH address=esel.stusta.mhn.de
+/ip fi add add list=DoH address=eu1.dns.lavate.ch
+/ip fi add add list=DoH address=everovpn.co
+/ip fi add add list=DoH address=extended.dns.mullvad.net
+/ip fi add add list=DoH address=externalmobiel.lekdijk.online
+/ip fi add add list=DoH address=family-filter-dns.cleanbrowsing.org
+/ip fi add add list=DoH address=family.5ososea.com
+/ip fi add add list=DoH address=family.adguard-dns.com
+/ip fi add add list=DoH address=family.canadianshield.cira.ca
+/ip fi add add list=DoH address=family.cloudflare-dns.com
+/ip fi add add list=DoH address=family.dns.mullvad.net
+/ip fi add add list=DoH address=family.dns.ningkelle.id
+/ip fi add add list=DoH address=family.dns.yandex.ru
+/ip fi add add list=DoH address=family.dot.dns.yandex.net
+/ip fi add add list=DoH address=family.freedns.controld.com
+/ip fi add add list=DoH address=family.mydns.network
+/ip fi add add list=DoH address=family.puredns.org
+/ip fi add add list=DoH address=familyshield.opendns.com
+/ip fi add add list=DoH address=fdns1.dismail.de
+/ip fi add add list=DoH address=fdns2.dismail.de
+/ip fi add add list=DoH address=fezgate.ovh
+/ip fi add add list=DoH address=firefox.dns.nextdns.io
+/ip fi add add list=DoH address=fjr01.dnscry.pt
+/ip fi add add list=DoH address=fly.io
+/ip fi add add list=DoH address=fr-dns1.bancuh.com
+/ip fi add add list=DoH address=fr1.dnswarden.com
+/ip fi add add list=DoH address=fra-dns.bitdefender.net
+/ip fi add add list=DoH address=fra01.dnscry.pt
+/ip fi add add list=DoH address=fra1.eyecay.xyz
+/ip fi add add list=DoH address=free.bravedns.com
+/ip fi add add list=DoH address=free.shecan.ir
+/ip fi add add list=DoH address=freedns.controld.com
+/ip fi add add list=DoH address=freedom.mydns.network
+/ip fi add add list=DoH address=frog.dns.qwer.pw
+/ip fi add add list=DoH address=fuchur.pentament.de
+/ip fi add add list=DoH address=fwgw.orangepipc.mywire.org
+/ip fi add add list=DoH address=galileo.math.unipd.it
+/ip fi add add list=DoH address=gateway.fomichev.cloud
+/ip fi add add list=DoH address=gclouddns.com
+/ip fi add add list=DoH address=geg01.dnscry.pt
+/ip fi add add list=DoH address=geshido.vpn.geshido.ru
+/ip fi add add list=DoH address=getdnsapi.net
+/ip fi add add list=DoH address=google-public-dns-a.google.com
+/ip fi add add list=DoH address=google-public-dns-b.google.com
+/ip fi add add list=DoH address=guard.sntrk.ru
+/ip fi add add list=DoH address=gustamadh.dynv6.net
+/ip fi add add list=DoH address=gztech.me
+/ip fi add add list=DoH address=h.gjrick.tw
+/ip fi add add list=DoH address=helios.plan9-dns.com
+/ip fi add add list=DoH address=hitian.me
+/ip fi add add list=DoH address=hk-hkg.doh.sb
+/ip fi add add list=DoH address=hk2.ooroot.com
+/ip fi add add list=DoH address=hkg01.dnscry.pt
+/ip fi add add list=DoH address=hkname.freecdn.one
+/ip fi add add list=DoH address=hole.elbschloss.xyz
+/ip fi add add list=DoH address=home.enjoymylife.net
+/ip fi add add list=DoH address=home.wriedts.de
+/ip fi add add list=DoH address=home27.duckdns.org
+/ip fi add add list=DoH address=hostdare.qtxd.net
+/ip fi add add list=DoH address=hshh.org
+/ip fi add add list=DoH address=httpdns-push.heytapmobile.com
+/ip fi add add list=DoH address=httpdns-sc.aliyuncs.com
+/ip fi add add list=DoH address=httpdns.meituan.com
+/ip fi add add list=DoH address=i.233py.com
+/ip fi add add list=DoH address=iana.tenta.io
+/ip fi add add list=DoH address=ibksturm.synology.me
+/ip fi add add list=DoH address=ibuki.cgnat.net
+/ip fi add add list=DoH address=id.terra.my.id
+/ip fi add add list=DoH address=ihctw.synology.me
+/ip fi add add list=DoH address=iij.jp
+/ip fi add add list=DoH address=ikarosalpha.xyz
+/ip fi add add list=DoH address=in-blr.doh.sb
+/ip fi add add list=DoH address=ines.zfn.uni-bremen.de
+/ip fi add add list=DoH address=inpssh.online
+/ip fi add add list=DoH address=internetsehat.bebasid.com
+/ip fi add add list=DoH address=iow-dns.bitdefender.net
+/ip fi add add list=DoH address=ipoac.nl
+/ip fi add add list=DoH address=ivnkn.xyz
+/ip fi add add list=DoH address=jabber-germany.de
+/ip fi add add list=DoH address=jackyes.ovh
+/ip fi add add list=DoH address=jnb01.dnscry.pt
+/ip fi add add list=DoH address=jp-dns1.bancuh.com
+/ip fi add add list=DoH address=jp-kix.doh.sb
+/ip fi add add list=DoH address=jp-nrt.doh.sb
+/ip fi add add list=DoH address=jp.68360612.xyz
+/ip fi add add list=DoH address=jp.tiar.app
+/ip fi add add list=DoH address=jp.tiarap.org
+/ip fi add add list=DoH address=jp1.f7b6h9.tk
+/ip fi add add list=DoH address=jp2.ooroot.com
+/ip fi add add list=DoH address=jpdns.cola16.app
+/ip fi add add list=DoH address=jurre-home.duckdns.org
+/ip fi add add list=DoH address=justhost.bedro.cloud
+/ip fi add add list=DoH address=kaitain.restena.lu
+/ip fi add add list=DoH address=keithchung.hopto.org
+/ip fi add add list=DoH address=kids.5ososea.com
+/ip fi add add list=DoH address=kids.dns0.eu
+/ip fi add add list=DoH address=kilabit.info
+/ip fi add add list=DoH address=kiv01.dnscry.pt
+/ip fi add add list=DoH address=korzhov.dev
+/ip fi add add list=DoH address=kr-sel.doh.sb
+/ip fi add add list=DoH address=kr1.ooroot.com
+/ip fi add add list=DoH address=kr2.ooroot.com
+/ip fi add add list=DoH address=kracon.anycast.censurfridns.dk
+/ip fi add add list=DoH address=kracon.anycast.uncensoreddns.org
+/ip fi add add list=DoH address=kronos.plan9-dns.com
+/ip fi add add list=DoH address=krtekvpn.duckdns.org
+/ip fi add add list=DoH address=la.ray0512.win
+/ip fi add add list=DoH address=las01.dnscry.pt
+/ip fi add add list=DoH address=lastentarvike.fi
+/ip fi add add list=DoH address=lax01.dnscry.pt
+/ip fi add add list=DoH address=lax02.dnscry.pt
+/ip fi add add list=DoH address=lelux.fi
+/ip fi add add list=DoH address=lindung.pp.ua
+/ip fi add add list=DoH address=lion.dns.qwer.pw
+/ip fi add add list=DoH address=lion.yazilimatolye.com
+/ip fi add add list=DoH address=llk01.dnscry.pt
+/ip fi add add list=DoH address=local.sufly.top
+/ip fi add add list=DoH address=lon-dns.bitdefender.net
+/ip fi add add list=DoH address=lon01.dnscry.pt
+/ip fi add add list=DoH address=lux1.nixnet.xyz
+/ip fi add add list=DoH address=lv1.nixnet.xyz
+/ip fi add add list=DoH address=mad01.dnscry.pt
+/ip fi add add list=DoH address=mail.data.haus
+/ip fi add add list=DoH address=mailer.amlegion.org
+/ip fi add add list=DoH address=mailkyb.co
+/ip fi add add list=DoH address=mainframe.dewed.de
+/ip fi add add list=DoH address=mask-api.icloud.com
+/ip fi add add list=DoH address=mask-h2.icloud.com
+/ip fi add add list=DoH address=mask.icloud.com
+/ip fi add add list=DoH address=masters-of-cloud.de
+/ip fi add add list=DoH address=max.rethinkdns.com
+/ip fi add add list=DoH address=meganerd.nl
+/ip fi add add list=DoH address=megumin.is.my.waifu.cz
+/ip fi add add list=DoH address=mia01.dnscry.pt
+/ip fi add add list=DoH address=minilla.store
+/ip fi add add list=DoH address=morbitzer.de
+/ip fi add add list=DoH address=mozilla.cloudflare-dns.com
+/ip fi add add list=DoH address=msr177.com
+/ip fi add add list=DoH address=muc01.dnscry.pt
+/ip fi add add list=DoH address=muli.stusta.mhn.de
+/ip fi add add list=DoH address=muxyuji.ru
+/ip fi add add list=DoH address=n0.eu
+/ip fi add add list=DoH address=n5.lsasss.com
+/ip fi add add list=DoH address=nanopi.cybergroove.net
+/ip fi add add list=DoH address=nat64.tuxis.nl
+/ip fi add add list=DoH address=naw01.dnscry.pt
+/ip fi add add list=DoH address=ndns.233py.com
+/ip fi add add list=DoH address=nebula.tru.io
+/ip fi add add list=DoH address=nenam.eu
+/ip fi add add list=DoH address=nl-ams.doh.sb
+/ip fi add add list=DoH address=nl-ams2.doh.sb
+/ip fi add add list=DoH address=noads.imbuffering.com
+/ip fi add add list=DoH address=ns.00dani.me
+/ip fi add add list=DoH address=ns.data.haus
+/ip fi add add list=DoH address=ns.lov.host
+/ip fi add add list=DoH address=ns.mtsoln.com
+/ip fi add add list=DoH address=ns.ral9005.org
+/ip fi add add list=DoH address=ns0.fdn.fr
+/ip fi add add list=DoH address=ns1.dotls.org
+/ip fi add add list=DoH address=ns1.fdn.fr
+/ip fi add add list=DoH address=ns1.flodns.net
+/ip fi add add list=DoH address=ns1.opennameserver.org
+/ip fi add add list=DoH address=ns1.qquack.org
+/ip fi add add list=DoH address=ns1.recursive.dnsbycomodo.com
+/ip fi add add list=DoH address=ns1.sc-lezhi.com
+/ip fi add add list=DoH address=ns2.flodns.net
+/ip fi add add list=DoH address=ns2.opennameserver.org
+/ip fi add add list=DoH address=ns2.recursive.dnsbycomodo.com
+/ip fi add add list=DoH address=ns3.bit-trail.nl
+/ip fi add add list=DoH address=ns3.com
+/ip fi add add list=DoH address=ns3.cx
+/ip fi add add list=DoH address=ns3.link
+/ip fi add add list=DoH address=ns3.opennameserver.org
+/ip fi add add list=DoH address=ns4.opennameserver.org
+/ip fi add add list=DoH address=nsc.torgues.net
+/ip fi add add list=DoH address=nsec.arnor.org
+/ip fi add add list=DoH address=nue2.moderateinfra.net
+/ip fi add add list=DoH address=nvi-dns.bitdefender.net
+/ip fi add add list=DoH address=ny.teradns.org
+/ip fi add add list=DoH address=ny1.nixnet.xyz
+/ip fi add add list=DoH address=nyc01.dnscry.pt
+/ip fi add add list=DoH address=nz01.dns4me.net
+/ip fi add add list=DoH address=o.rsaikat.com
+/ip fi add add list=DoH address=o1.lt
+/ip fi add add list=DoH address=odoh.cloudflare-dns.com
+/ip fi add add list=DoH address=odoh.crypto.sx
+/ip fi add add list=DoH address=odvr.nic.cz
+/ip fi add add list=DoH address=one.one.one.one
+/ip fi add add list=DoH address=open.dns0.eu
+/ip fi add add list=DoH address=opencdn.jomodns.com
+/ip fi add add list=DoH address=opennic.i2pd.xyz
+/ip fi add add list=DoH address=opennic.tenta.io
+/ip fi add add list=DoH address=opennic1.eth-services.de
+/ip fi add add list=DoH address=opennic2.i2pd.xyz
+/ip fi add add list=DoH address=opera.cloudflare-dns.com
+/ip fi add add list=DoH address=oraclejp2.chungyu.com
+/ip fi add add list=DoH address=orau.lz0724.com
+/ip fi add add list=DoH address=ord01.dnscry.pt
+/ip fi add add list=DoH address=ordns.he.net
+/ip fi add add list=DoH address=ore-dns.bitdefender.net
+/ip fi add add list=DoH address=orpi.privado.ovh
+/ip fi add add list=DoH address=osefcorp.duckdns.org
+/ip fi add add list=DoH address=outdoorchair.us
+/ip fi add add list=DoH address=p0.freedns.controld.com
+/ip fi add add list=DoH address=p1.freedns.controld.com
+/ip fi add add list=DoH address=p2.freedns.controld.com
+/ip fi add add list=DoH address=p3.freedns.controld.com
+/ip fi add add list=DoH address=paranoia.mydns.network
+/ip fi add add list=DoH address=pates.services.sfr.fr.casepp.sfr.fr
+/ip fi add add list=DoH address=paulo.nom.za
+/ip fi add add list=DoH address=pdns.faelix.net
+/ip fi add add list=DoH address=pdns.itxe.net
+/ip fi add add list=DoH address=pdx01.dnscry.pt
+/ip fi add add list=DoH address=per.adfilter.net
+/ip fi add add list=DoH address=phl01.dnscry.pt
+/ip fi add add list=DoH address=phx01.dnscry.pt
+/ip fi add add list=DoH address=pi1.node15.com
+/ip fi add add list=DoH address=pihole.aws.ketan.dev
+/ip fi add add list=DoH address=pihole.datamatter.co.za
+/ip fi add add list=DoH address=pihole1.hoerli.net
+/ip fi add add list=DoH address=pihole2.hoerli.net
+/ip fi add add list=DoH address=pihole3.hoerli.net
+/ip fi add add list=DoH address=pihole4.hoerli.net
+/ip fi add add list=DoH address=pluton.plan9-dns.com
+/ip fi add add list=DoH address=pooblet.co.za
+/ip fi add add list=DoH address=pope.cnblw.me
+/ip fi add add list=DoH address=privacy.plumedns.com
+/ip fi add add list=DoH address=privacydns.go6lab.si
+/ip fi add add list=DoH address=private.canadianshield.cira.ca
+/ip fi add add list=DoH address=privatnas.servebeer.com
+/ip fi add add list=DoH address=pro.shecan.ir
+/ip fi add add list=DoH address=project-evoex.de
+/ip fi add add list=DoH address=protected.canadianshield.cira.ca
+/ip fi add add list=DoH address=ps1.modr.club
+/ip fi add add list=DoH address=public-dns-a.dns.sb
+/ip fi add add list=DoH address=public-dns-b.dns.sb
+/ip fi add add list=DoH address=public.dns.iij.jp
+/ip fi add add list=DoH address=punono.duckdns.org
+/ip fi add add list=DoH address=puredns.org
+/ip fi add add list=DoH address=qlf-doh.inria.fr
+/ip fi add add list=DoH address=qual.cuprum.ru
+/ip fi add add list=DoH address=query.hdns.io
+/ip fi add add list=DoH address=quic.lol
+/ip fi add add list=DoH address=r1bnc.com
+/ip fi add add list=DoH address=rayneau.fr
+/ip fi add add list=DoH address=rdns.faelix.net
+/ip fi add add list=DoH address=rdu01.dnscry.pt
+/ip fi add add list=DoH address=res-acst1.absolight.net
+/ip fi add add list=DoH address=res-acst2.absolight.net
+/ip fi add add list=DoH address=res-acst3.absolight.net
+/ip fi add add list=DoH address=resolver-eu.haringstad.com
+/ip fi add add list=DoH address=resolver.noaddns.com
+/ip fi add add list=DoH address=resolver.r0cket.net
+/ip fi add add list=DoH address=resolver.rferee.dev
+/ip fi add add list=DoH address=resolver.sunet.se
+/ip fi add add list=DoH address=resolver.unstoppable.io
+/ip fi add add list=DoH address=resolver1-fs.opendns.com
+/ip fi add add list=DoH address=resolver1.absolight.net
+/ip fi add add list=DoH address=resolver1.ipv6-sandbox.opendns.com
+/ip fi add add list=DoH address=resolver1.opendns.com
+/ip fi add add list=DoH address=resolver2-fs.opendns.com
+/ip fi add add list=DoH address=resolver2.absolight.net
+/ip fi add add list=DoH address=resolver2.ipv6-sandbox.opendns.com
+/ip fi add add list=DoH address=resolver2.opendns.com
+/ip fi add add list=DoH address=resolver3.absolight.net
+/ip fi add add list=DoH address=resolver4.dns.openinternet.io
+/ip fi add add list=DoH address=rethinkdns.com
+/ip fi add add list=DoH address=rgnet-iad.anycast.censurfridns.dk
+/ip fi add add list=DoH address=rgnet-iad.anycast.uncensoreddns.org
+/ip fi add add list=DoH address=ric.openbld.net
+/ip fi add add list=DoH address=ricko.is
+/ip fi add add list=DoH address=rpz-public-resolver1.rrdns.pch.net
+/ip fi add add list=DoH address=ru-mow.doh.sb
+/ip fi add add list=DoH address=rumpelsepp.org
+/ip fi add add list=DoH address=sa01.dns4me.net
+/ip fi add add list=DoH address=safe.dns.yandex.ru
+/ip fi add add list=DoH address=safe.dot.dns.yandex.net
+/ip fi add add list=DoH address=safeservedns.com
+/ip fi add add list=DoH address=sandbox.opendns.com
+/ip fi add add list=DoH address=sbdns.co.in
+/ip fi add add list=DoH address=sby-doh.limotelu.org
+/ip fi add add list=DoH address=sdns.233py.com
+/ip fi add add list=DoH address=sdns22.gkonuralp.com
+/ip fi add add list=DoH address=secondary.dns.yandex.ru
+/ip fi add add list=DoH address=secondary.family.dns.yandex.ru
+/ip fi add add list=DoH address=secondary.safe.dns.yandex.ru
+/ip fi add add list=DoH address=secure-dns.dns-ga.de
+/ip fi add add list=DoH address=secure-dns.pleumkungz.com
+/ip fi add add list=DoH address=secure.anudeep.me
+/ip fi add add list=DoH address=secure.avastdns.com
+/ip fi add add list=DoH address=secure.onedns.cc
+/ip fi add add list=DoH address=securenet.mhsystems.net
+/ip fi add add list=DoH address=security-filter-dns.cleanbrowsing.org
+/ip fi add add list=DoH address=security.cloudflare-dns.com
+/ip fi add add list=DoH address=sg-dns1.bancuh.com
+/ip fi add add list=DoH address=sg-sin.doh.sb
+/ip fi add add list=DoH address=sg.teradns.org
+/ip fi add add list=DoH address=sg01.dns4me.net
+/ip fi add add list=DoH address=sg1.dnswarden.com
+/ip fi add add list=DoH address=sg2.ooroot.com
+/ip fi add add list=DoH address=shalenkov.dev
+/ip fi add add list=DoH address=shield.afixer.app
+/ip fi add add list=DoH address=shield1.eranext.net
+/ip fi add add list=DoH address=sin01.dnscry.pt
+/ip fi add add list=DoH address=sink.nolo.ltd
+/ip fi add add list=DoH address=sitdns.com
+/ip fi add add list=DoH address=sky.rethinkdns.com
+/ip fi add add list=DoH address=slc01.dnscry.pt
+/ip fi add add list=DoH address=sof01.dnscry.pt
+/ip fi add add list=DoH address=spacedns.org
+/ip fi add add list=DoH address=sriedmueadguard.casa
+/ip fi add add list=DoH address=steering.nextdns.io
+/ip fi add add list=DoH address=sto01.dnscry.pt
+/ip fi add add list=DoH address=stratus.bugz.fr
+/ip fi add add list=DoH address=sukidayo.eu.org
+/ip fi add add list=DoH address=sundalandia.pp.ua
+/ip fi add add list=DoH address=sunnygyl.com
+/ip fi add add list=DoH address=switch.ch
+/ip fi add add list=DoH address=syd.adfilter.net
+/ip fi add add list=DoH address=syd01.dnscry.pt
+/ip fi add add list=DoH address=takhtakh.domyah.net
+/ip fi add add list=DoH address=testaghome.meshkov.info
+/ip fi add add list=DoH address=testguard.meexx.de
+/ip fi add add list=DoH address=tienpham.id.vn
+/ip fi add add list=DoH address=tiger.dns.qwer.pw
+/ip fi add add list=DoH address=timmes.nl
+/ip fi add add list=DoH address=tj.jamesxue.xyz
+/ip fi add add list=DoH address=tky-dns.bitdefender.net
+/ip fi add add list=DoH address=tll01.dnscry.pt
+/ip fi add add list=DoH address=tls-dns-u.odvr.dns-oarc.net
+/ip fi add add list=DoH address=tlz.asia
+/ip fi add add list=DoH address=tor.cloudflare-dns.com
+/ip fi add add list=DoH address=tor.vasi.li
+/ip fi add add list=DoH address=tpa01.dnscry.pt
+/ip fi add add list=DoH address=tpe01.dnscry.pt
+/ip fi add add list=DoH address=trf01.dnscry.pt
+/ip fi add add list=DoH address=truta.org
+/ip fi add add list=DoH address=ttag.dns.nomu.pw
+/ip fi add add list=DoH address=tuandns.duckdns.org
+/ip fi add add list=DoH address=tw2.ooroot.com
+/ip fi add add list=DoH address=tx.teradns.org
+/ip fi add add list=DoH address=tyo01.dnscry.pt
+/ip fi add add list=DoH address=typaza.com
+/ip fi add add list=DoH address=ueni.dyndns.org
+/ip fi add add list=DoH address=uk-lon.doh.sb
+/ip fi add add list=DoH address=uk.teradns.org
+/ip fi add add list=DoH address=uk01.dns4me.net
+/ip fi add add list=DoH address=uncensored.any.dns.nixnet.xyz
+/ip fi add add list=DoH address=uncensored.freedns.controld.com
+/ip fi add add list=DoH address=uncensored.lux1.dns.nixnet.xyz
+/ip fi add add list=DoH address=uncensored.lv1.dns.nixnet.xyz
+/ip fi add add list=DoH address=uncensored.ny1.dns.nixnet.xyz
+/ip fi add add list=DoH address=unfiltered.adguard-dns.com
+/ip fi add add list=DoH address=unicast.censurfridns.dk
+/ip fi add add list=DoH address=unicast.uncensoreddns.org
+/ip fi add add list=DoH address=uradoori.org
+/ip fi add add list=DoH address=urology.wiki
+/ip fi add add list=DoH address=us.doh.cloudveil.org
+/ip fi add add list=DoH address=us01.dns4me.net
+/ip fi add add list=DoH address=us02.dns4me.net
+/ip fi add add list=DoH address=us1.blissdns.net
+/ip fi add add list=DoH address=us1.dns.lavate.ch
+/ip fi add add list=DoH address=use-application-dns.net
+/ip fi add add list=DoH address=uw-dns.rubyfish.cn
+/ip fi add add list=DoH address=v.dnscrypt.uk
+/ip fi add add list=DoH address=v2.xx3210766.live
+/ip fi add add list=DoH address=vd.i81.ru
+/ip fi add add list=DoH address=vie01.dnscry.pt
+/ip fi add add list=DoH address=virga.pp.ua
+/ip fi add add list=DoH address=vm.mytm.cc
+/ip fi add add list=DoH address=vpn.technicule.info
+/ip fi add add list=DoH address=vpsus3.pzhg.me
+/ip fi add add list=DoH address=vtcuong.site
+/ip fi add add list=DoH address=wantaquddin.com
+/ip fi add add list=DoH address=waw01.dnscry.pt
+/ip fi add add list=DoH address=waw02.dnscry.pt
+/ip fi add add list=DoH address=wdns.233py.com
+/ip fi add add list=DoH address=wikimedia-dns.org
+/ip fi add add list=DoH address=www.c-dns.com
+/ip fi add add list=DoH address=www.chungocoai.name.vn
+/ip fi add add list=DoH address=www.dnsadguard.co.uk
+/ip fi add add list=DoH address=www.inpssh.online
+/ip fi add add list=DoH address=www.jabber-germany.de
+/ip fi add add list=DoH address=www.masters-of-cloud.de
+/ip fi add add list=DoH address=www.maxfong.cc
+/ip fi add add list=DoH address=www.morbitzer.de
+/ip fi add add list=DoH address=www.muxyuji.ru
+/ip fi add add list=DoH address=www.pukanuragan.ru
+/ip fi add add list=DoH address=www.unasw.eu
+/ip fi add add list=DoH address=www.zburger.top
+/ip fi add add list=DoH address=wyx.cloud
+/ip fi add add list=DoH address=xenergy.cc
+/ip fi add add list=DoH address=xray.krnl.eu
+/ip fi add add list=DoH address=yarp.lefolgoc.net
+/ip fi add add list=DoH address=ychen.cf
+/ip fi add add list=DoH address=ychen.gq
+/ip fi add add list=DoH address=your-dns.run
+/ip fi add add list=DoH address=yovbak.com
+/ip fi add add list=DoH address=yul01.dnscry.pt
+/ip fi add add list=DoH address=yunyun.is.my.waifu.cz
+/ip fi add add list=DoH address=zal01.dnscry.pt
+/ip fi add add list=DoH address=zero.dns0.eu
+/ip fi add add list=DoH address=zougloub.eu
+/ip fi add add list=DoH address=zrh1-ns01.monzoon.net
+/ip fi add add list=DoH address=zxcvb.pp.ua
+
+/ip fi fi remove [find comment=DoH]
+/ip fi fi add chain=forward dst-address-list=DoH action=drop comment=DoH
+/ip fi fi move [find comment=DoH] 0
+
